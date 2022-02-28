@@ -169,7 +169,6 @@ IDCBT|Cibitung                                      |                           
 IDCBW|Celukan Bawang                                |Prop. Bali                    |
 IDCDK|Cilandak                                      |                              |
 IDCDS|Cicadas                                       |                              |
-IDCE9|3eng12aren9                                   |Prop. Banten                  |
 IDCEB|Celukan Bawang, Bl                            |                              |
 IDCEN|Cengkareng                                    |                              |
 IDCER|Cereweh                                       |                              |
@@ -969,50 +968,13 @@ IDZEG|Senggo                                        |Prop. Papua                
 IDZKL|Steenkool                                     |Prop. Maluku Utara            |
 IDZRI|Serui                                         |Prop. Papua                   |
 IDZRM|Sarmi                                         |                              |
-XZAAD|Aasgard                                       |                              |
-XZALV|Alve                                          |                              |
 XZANT|Ardjuna                                       |                              |
 XZANU|Anoa Natuna                                   |                              |
-XZBRA|Brage                                         |                              |
-XZBUV|Buffalo Venture                               |                              |
 XZCMT|Camar Marine Terminal                         |                              |
-XZDHS|Dai Hung (STS Load)                           |                              |
-XZDHT|Dai Hung (Tandem Load)                        |                              |
-XZDRA|Draugen                                       |                              |
-XZDRT|De Ruiter                                     |                              |
 XZDTL|Dulang Marine Terminal                        |                              |
-XZFRM|Fram                                          |                              |
-XZGJO|Gjoa                                          |                              |
-XZGRA|Grane                                         |                              |
-XZHEI|Heidrun                                       |                              |
-XZHUL|Huldra                                        |                              |
-XZKBJ|Kvitebjorn                                    |                              |
 XZKMT|Kakap Marine Terminal                         |                              |
-XZKRI|Kristin                                       |                              |
-XZLAM|Laminaria Terminal                            |                              |
-XZLGT|Legendre Terminal                             |                              |
-XZMKL|Mikkel                                        |                              |
-XZMVI|Morvin                                        |                              |
-XZNJO|Njord                                         |                              |
-XZNNE|Norne                                         |                              |
-XZNTE|Northern Endevour                             |                              |
 XZOCA|Co-operation Zone A (AU,ID)                   |                              |
 XZSBY|Sibuko Bay                                    |                              |
-XZSHA|Al Shaheen terminal                           |                              |
-XZSHV|Snohvit                                       |                              |
-XZSTP|Stage Platform                                |                              |
-XZSUU|Suursaq                                       |                              |
-XZSYG|                                              |Prop. Banten                  |
-XZTGM|Tanjung Gerem                                 |                              |
+XZSYG|Sy                                            |Prop. Banten                  |
 XZTGR|Sygna Tandjung Gerem                          |Prop. Banten                  |
-XZTHA|Tyrihans                                      |                              |
-XZTUN|Tune                                          |                              |
-XZURD|Urd                                           |                              |
-XZVFK|Veslefrikk                                    |                              |
-XZVGD|Vigdis                                        |                              |
-XZVIL|Vilje                                         |                              |
-XZVOV|Volve                                         |                              |
-XZVSU|Visund                                        |                              |
 XZWRT|Widuri Marine Terminal                        |                              |
-XZYET|Yetagun Field                                 |                              |
-XZYGT|Yttergryta                                    |                              |
