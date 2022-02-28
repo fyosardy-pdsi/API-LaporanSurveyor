@@ -6,7 +6,7 @@ description: >-
 
 # Kode Pelabuhan Dalam Negeri
 
-kode |nama                                          |nama                          |
+Kode |Nama Pelabuhan/Bandara/Terminal               |Provinsi                      |
 -----|----------------------------------------------|------------------------------|
 ID001|Jetty Hasnur Binuang Putra Mulia, Sungai Salai|                              |
 ID5AN|Bangkalan                                     |                              |
