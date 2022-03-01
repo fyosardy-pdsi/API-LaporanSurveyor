@@ -10,4 +10,8 @@
   * [Kode Pelabuhan Dalam Negeri](reference/api-reference/kode-pelabuhan-dalam-negeri.md)
   * [Kode Negara](reference/api-reference/kode-negara.md)
   * [Kode Kota](reference/api-reference/kode-kota.md)
+  * [Kode Provinsi](reference/api-reference/kode-provinsi.md)
+  * [Kode Mata Uang](reference/api-reference/kode-mata-uang.md)
+  * [Kode Satuan Barang](reference/api-reference/kode-satuan-barang.md)
+  * [Kode Satuan Packing List](reference/api-reference/kode-satuan-packing-list.md)
   * [Kode Kontainer](reference/api-reference/kode-kontainer.md)
