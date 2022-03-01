@@ -5,11 +5,11 @@ description: >-
   INATRADE
 ---
 
-# Introduction
+# 🚢 Introduction
 
 ## Want to deep dive?
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+Berikut ini adalah daftar kode referensi yang digunakan pada API Laporan Surveyor:
 
 {% content-ref url="reference/api-reference/" %}
 [api-reference](reference/api-reference/)
