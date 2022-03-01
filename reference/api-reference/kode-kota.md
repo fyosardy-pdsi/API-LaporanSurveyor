@@ -1,8 +1,8 @@
 ---
-description: Berikut ini daftar negara berdasarkan ISO 3166-1 Alpha-2
+description: Berikut ini daftar kota berdasarkan SNI 7567-2010
 ---
 
-# Copy of Kode Negara
+# Kode Kota
 
 | Kode Negara | Nama Negara                              |
 | ----------- | ---------------------------------------- |
