@@ -38,9 +38,9 @@ description: Berikut Ini adalah kode perizinan laporan surveyor berdasarkan SSm 
 | 0101797        | Impor  | LS Impor Barang Modal dalam Keadaan Tidak Baru                                                                           |
 | 0101807        | Impor  | LS Impor Baterai Lithium Tidak Baru                                                                                      |
 | 0101815        | Impor  | LS Impor Limbah Non B3 Sebagai Bahan Baku Industri                                                                       |
-| 0101173        | Ekspor | LS Ekspor Produk Industri Kehutanan                                                                                      |
-| 0101178        | Ekspor | LS Ekspor Timah                                                                                                          |
-| 0101186        | Ekspor | LS Ekspor Minyak Bumi, Gas Bumi dan Bahan Bakar Lain                                                                     |
+| 0101130        | Ekspor | LS Ekspor Produk Industri Kehutanan                                                                                      |
+| 0101056        | Ekspor | LS Ekspor Timah                                                                                                          |
+| 0101189        | Ekspor | LS Ekspor Minyak Bumi, Gas Bumi dan Bahan Bakar Lain                                                                     |
 | 0101101        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Mineral Logam dan Bukan Logam, Batuan                |
 | 0101148        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Silika dan Kuarsa, Konsentrat, Lumpur Anoda, Bauksit |
 | 0101188        | Ekspor | LS Ekspor Batubara dan Produk Batubara                                                                                   |
