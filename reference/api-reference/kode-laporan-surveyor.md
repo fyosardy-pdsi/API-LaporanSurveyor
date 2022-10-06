@@ -32,25 +32,25 @@ description: Berikut Ini adalah kode perizinan laporan surveyor berdasarkan SSm 
 | 01015H5        | Impor  | LS Impor Sepeda Roda Dua dan Roda Tiga                                                                                                   | Persetujuan Impor (PI)   |
 | 0101733        | Impor  | LS Impor Prekursor Non Farmasi                                                                                                           | Persetujuan Impor (PI)   |
 | 0101751        | Impor  | LS Impor Nitrocellulose                                                                                                                  | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Tunggal                                                                   | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Jenis Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Campuran (Blend) Yang Mengandung HCFC                               | Persetujuan Impor (PI)   |
+| 0101802        | Impor  | LS Impor Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Tunggal                                                                   | Persetujuan Impor (PI)   |
+| 0101803        | Impor  | LS Impor Jenis Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Campuran (Blend) Yang Mengandung HCFC                               | Persetujuan Impor (PI)   |
 | 0101767        | Impor  | LS Impor Barang Berbasis Sistem Pendingin                                                                                                | -                        |
 | 0101778        | Impor  | LS Impor Bahan Berbahaya (B2)                                                                                                            | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru (BMTB) Yang Dapat Diimpor Oleh Pemakai Langsung                                           | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Rekondisi                                                         | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Remanufakturing (BMTB Dengan Usia Paling Lama 20 Tahun)           | Persetujuan Impor (PI)   |
-|                | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Untuk Tujuan Tertentu                                                                     | Persetujuan Impor (PI)   |
+| 0101804        | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru (BMTB) Yang Dapat Diimpor Oleh Pemakai Langsung                                           | Persetujuan Impor (PI)   |
+| 0101900        | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Rekondisi                                                         | Persetujuan Impor (PI)   |
+| 0101919        | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Remanufakturing (BMTB Dengan Usia Paling Lama 20 Tahun)           | Persetujuan Impor (PI)   |
+| 0101920        | Impor  | LS Impor Barang Modal Dalam Keadaan Tidak Baru Untuk Tujuan Tertentu                                                                     | Persetujuan Impor (PI)   |
 | 0101807        | Impor  | LS Impor Baterai Lithium Tidak Baru                                                                                                      | Importir Produsen (IP)   |
 | 0101815        | Impor  | LS Impor Limbah Non B3 Sebagai Bahan Baku Industri                                                                                       | Persetujuan Impor (PI)   |
 | 0101130        | Ekspor | LS Ekspor Produk Industri Kehutanan                                                                                                      | -                        |
-|                | Ekspor | LS Ekspor Intan Kasar                                                                                                                    | Persetujuan Ekspor (PE)  |
+| 0101209        | Ekspor | LS Ekspor Intan Kasar                                                                                                                    | Persetujuan Ekspor (PE)  |
 | 0101056        | Ekspor | LS Ekspor Timah                                                                                                                          | Persetujuan Ekspor (PE)  |
-|                | Ekspor | LS Ekspor Barang Contoh Produk Industri Pertambangan Untuk Keperluan Penelitian Dan Pengembangan Teknologi Pengolahan Dan/Atau Pemurnian | Persetujuan Ekspor (PE)  |
-|                | Ekspor | LS Ekspor Prekursor Non Farmasi                                                                                                          | Persetujuan Ekspor (PE)  |
-|                | Ekspor | LS Ekspor Bahan Bakar Lain                                                                                                               | Persetujuan Ekspor (PE)  |
-| 0101189        | Ekspor | LS Ekspor Minyak Bumi dan Gas Bumi                                                                                                       | Persetujuan Ekspor (PE)  |
+| 0101210        | Ekspor | LS Ekspor Barang Contoh Produk Industri Pertambangan Untuk Keperluan Penelitian Dan Pengembangan Teknologi Pengolahan Dan/Atau Pemurnian | Persetujuan Ekspor (PE)  |
+| 0101211        | Ekspor | LS Ekspor Prekursor Non Farmasi                                                                                                          | Persetujuan Ekspor (PE)  |
+| 0101212        | Ekspor | LS Ekspor Bahan Bakar Lain                                                                                                               | Persetujuan Ekspor (PE)  |
+| 0101213        | Ekspor | LS Ekspor Minyak Bumi dan Gas Bumi                                                                                                       | Persetujuan Ekspor (PE)  |
 | 0101101        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Mineral Logam dan Bukan Logam, Batuan                                | -                        |
-| 0101148        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Silika, Kuarsa, Konsentrat, Lumpu Anoda                              | Persetujuan Ekspor (PE)  |
-|                | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Bauksit                                                              | Persetujuan Ekspor (PE)  |
+| 0101214        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Silika, Kuarsa, Konsentrat, Lumpu Anoda                              | Persetujuan Ekspor (PE)  |
+| 0101215        | Ekspor | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Bauksit                                                              | Persetujuan Ekspor (PE)  |
 | 0101188        | Ekspor | LS Ekspor Batubara dan Produk Batubara                                                                                                   | Eksportir Terdaftar (ET) |
 
