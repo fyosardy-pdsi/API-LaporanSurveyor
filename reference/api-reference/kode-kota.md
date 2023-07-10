@@ -6,7 +6,7 @@ description: Berikut ini daftar kota berdasarkan SNI 7567-2010
 
 kode|Nama Kota                       |
 ----|--------------------------------|
-TTN |Kab. Aceh Selatan               |
+TTN |Kab. Aceh Selatan  Test             |
 KTN |Kab. Aceh Tenggara              |
 TKN |Kab. Aceh Tengah                |
 MBO |Kab. Aceh Barat                 |
