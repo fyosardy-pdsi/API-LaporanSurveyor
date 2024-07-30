@@ -4,399 +4,521 @@ description: Berikut ini daftar kota berdasarkan Kode Kemendagri
 
 # Kode Kota
 
-| Kode | Nama Dengan Jenis Kota         | Nama                      |
-| ---- | ------------------------------ | ------------------------- |
-| 1102 | KAB. ACEH SINGKIL              | ACEH SINGKIL              |
-| 1103 | KAB. ACEH SELATAN              | ACEH SELATAN              |
-| 1104 | KAB. ACEH TENGGARA             | ACEH TENGGARA             |
-| 1105 | KAB. ACEH TIMUR                | ACEH TIMUR                |
-| 1106 | KAB. ACEH TENGAH               | ACEH TENGAH               |
-| 1107 | KAB. ACEH BARAT                | ACEH BARAT                |
-| 1108 | KAB. ACEH BESAR                | ACEH BESAR                |
-| 1109 | KAB. PIDIE                     | PIDIE                     |
-| 1110 | KAB. BIREUEN                   | BIREUEN                   |
-| 1111 | KAB. ACEH UTARA                | ACEH UTARA                |
-| 1171 | KOTA BANDA ACEH                | BANDA ACEH                |
-| 1172 | KOTA SABANG                    | SABANG                    |
-| 1173 | KOTA LHOKSEUMAWE               | LHOKSEUMAWE               |
-| 1201 | KAB. NIAS                      | NIAS                      |
-| 1202 | KAB. MANDAILING NATAL          | MANDAILING NATAL          |
-| 1203 | KAB. TAPANULI SELATAN          | TAPANULI SELATAN          |
-| 1204 | KAB. TAPANULI TENGAH           | TAPANULI TENGAH           |
-| 1205 | KAB. TAPANULI UTARA            | TAPANULI UTARA            |
-| 1206 | KAB. TOBA SAMOSIR              | TOBA SAMOSIR              |
-| 1207 | KAB. LABUHAN BATU              | LABUHAN BATU              |
-| 1208 | KAB. ASAHAN                    | ASAHAN                    |
-| 1209 | KAB. SIMALUNGUN                | SIMALUNGUN                |
-| 1210 | KAB. DAIRI                     | DAIRI                     |
-| 1211 | KAB. KARO                      | KARO                      |
-| 1212 | KAB. DELI SERDANG              | DELI SERDANG              |
-| 1213 | KAB. LANGKAT                   | LANGKAT                   |
-| 1214 | KAB. NIAS SELATAN              | NIAS SELATAN              |
-| 1215 | KAB. HUMBANG HASUNDUTAN        | HUMBANG HASUNDUTAN        |
-| 1216 | KAB. PAKPAK BHARAT             | PAKPAK BHARAT             |
-| 1217 | KAB. SAMOSIR                   | SAMOSIR                   |
-| 1218 | KAB. SERDANG BEDAGAI           | SERDANG BEDAGAI           |
-| 1219 | KAB. BATU BARA                 | BATU BARA                 |
-| 1220 | KAB. PADANG LAWAS UTARA        | PADANG LAWAS UTARA        |
-| 1221 | KAB. PADANG LAWAS              | PADANG LAWAS              |
-| 1222 | KAB. LABUHANBATU SELATAN       | LABUHANBATU SELATAN       |
-| 1223 | KAB. LABUHANBATU UTARA         | LABUHANBATU UTARA         |
-| 1224 | KAB. NIAS UTARA                | NIAS UTARA                |
-| 1225 | KAB. NIAS BARAT                | NIAS BARAT                |
-| 1271 | KOTA SIBOLGA                   | SIBOLGA                   |
-| 1272 | KOTA TANJUNG BALAI             | TANJUNG BALAI             |
-| 1273 | KOTA PEMATANG SIANTAR          | PEMATANG SIANTAR          |
-| 1274 | KOTA TEBING TINGGI             | TEBING TINGGI             |
-| 1275 | KOTA MEDAN                     | MEDAN                     |
-| 1276 | KOTA BINJAI                    | BINJAI                    |
-| 1277 | KOTA PADANG SIDEMPUAN          | PADANG SIDEMPUAN          |
-| 1278 | KOTA GUNUNGSITOLI              | GUNUNGSITOLI              |
-| 1301 | KAB. KEPULAUAN MENTAWAI        | KEPULAUAN MENTAWAI        |
-| 1302 | KAB. PESISIR SELATAN           | PESISIR SELATAN           |
-| 1303 | KAB. SOLOK                     | SOLOK                     |
-| 1304 | KAB. SAWAHLUNTO/SIJUNJUNG      | SAWAHLUNTO/SIJUNJUNG      |
-| 1305 | KAB. TANAH DATAR               | TANAH DATAR               |
-| 1306 | KAB. PADANG PARIAMAN           | PADANG PARIAMAN           |
-| 1307 | KAB. AGAM                      | AGAM                      |
-| 1308 | KAB. LIMA PULUH KOTO           | LIMA PULUH KOTO           |
-| 1309 | KAB. PASAMAN                   | PASAMAN                   |
-| 1371 | KOTA PADANG                    | PADANG                    |
-| 1372 | KOTA SOLOK                     | SOLOK                     |
-| 1373 | KOTA SAWAH LUNTO               | SAWAH LUNTO               |
-| 1374 | KOTA PADANG PANJANG            | PADANG PANJANG            |
-| 1375 | KOTA BUKITTINGGI               | BUKITTINGGI               |
-| 1376 | KOTA PAYAKUMBUH                | PAYAKUMBUH                |
-| 1401 | KAB. KUANTAN SINGINGI          | KUANTAN SINGINGI          |
-| 1402 | KAB. INDRAGIRI HULU            | INDRAGIRI HULU            |
-| 1403 | KAB. INDRAGIRI HILIR           | INDRAGIRI HILIR           |
-| 1404 | KAB. PELALAWAN                 | PELALAWAN                 |
-| 1405 | KAB. SIAK                      | SIAK                      |
-| 1406 | KAB. KAMPAR                    | KAMPAR                    |
-| 1407 | KAB. ROKAN HULU                | ROKAN HULU                |
-| 1408 | KAB. BENGKALIS                 | BENGKALIS                 |
-| 1409 | KAB. ROKAN HILIR               | ROKAN HILIR               |
-| 1410 | KAB. KEPULAUAN MERANTI         | KEPULAUAN MERANTI         |
-| 1471 | KOTA PEKAN BARU                | PEKAN BARU                |
-| 1473 | KOTA DUMAI                     | DUMAI                     |
-| 1501 | KAB. KERINCI                   | KERINCI                   |
-| 1502 | KAB. MERANGIN                  | MERANGIN                  |
-| 1503 | KAB. SAROLANGUN                | SAROLANGUN                |
-| 1504 | KAB. BATANG HARI               | BATANG HARI               |
-| 1505 | KAB. MUARO JAMBI               | MUARO JAMBI               |
-| 1506 | KAB. TANJUNG JABUNG TIMUR      | TANJUNG JABUNG TIMUR      |
-| 1507 | KAB. TANJUNG JABUNG BARAT      | TANJUNG JABUNG BARAT      |
-| 1508 | KAB. TEBO                      | TEBO                      |
-| 1509 | KAB. BUNGO                     | BUNGO                     |
-| 1571 | KOTA JAMBI                     | JAMBI                     |
-| 1601 | KAB. OGAN KOMERING ULU         | OGAN KOMERING ULU         |
-| 1602 | KAB. OGAN KOMERING ILIR        | OGAN KOMERING ILIR        |
-| 1603 | KAB. MUARA ENIM                | MUARA ENIM                |
-| 1604 | KAB. LAHAT                     | LAHAT                     |
-| 1605 | KAB. MUSI RAWAS                | MUSI RAWAS                |
-| 1606 | KAB. MUSI BANYU ASIN           | MUSI BANYU ASIN           |
-| 1607 | KAB. BANYUASIN                 | BANYUASIN                 |
-| 1608 | KAB. OGAN KOMERING ULU TIMUR   | OGAN KOMERING ULU TIMUR   |
-| 1609 | KAB. OGAN KOMERING ULU SELATAN | OGAN KOMERING ULU SELATAN |
-| 1610 | KAB. OGAN ILIR                 | OGAN ILIR                 |
-| 1671 | KOTA PALEMBANG                 | PALEMBANG                 |
-| 1672 | KOTA PRABUMULIH                | PRABUMULIH                |
-| 1673 | KOTA PAGAR ALAM                | PAGAR ALAM                |
-| 1674 | KOTA LUBUK LINGGAU             | LUBUK LINGGAU             |
-| 1701 | KAB. BENGKULU SELATAN          | BENGKULU SELATAN          |
-| 1702 | KAB. REJANG LEBONG             | REJANG LEBONG             |
-| 1703 | KAB. BENGKULU UTARA            | BENGKULU UTARA            |
-| 1771 | KOTA BENGKULU                  | BENGKULU                  |
-| 1801 | KAB. LAMPUNG BARAT             | LAMPUNG BARAT             |
-| 1802 | KAB. TANGGAMUS                 | TANGGAMUS                 |
-| 1803 | KAB. LAMPUNG SELATAN           | LAMPUNG SELATAN           |
-| 1804 | KAB. LAMPUNG TIMUR             | LAMPUNG TIMUR             |
-| 1805 | KAB. LAMPUNG TENGAH            | LAMPUNG TENGAH            |
-| 1806 | KAB. LAMPUNG UTARA             | LAMPUNG UTARA             |
-| 1807 | KAB. WAY KANAN                 | WAY KANAN                 |
-| 1808 | KAB. TULANG BAWANG             | TULANG BAWANG             |
-| 1871 | KOTA BANDAR LAMPUNG            | BANDAR LAMPUNG            |
-| 1872 | KOTA METRO                     | METRO                     |
-| 1901 | KAB. BANGKA                    | BANGKA                    |
-| 1902 | KAB. BELITUNG                  | BELITUNG                  |
-| 1971 | KOTA PANGKAL PINANG            | PANGKAL PINANG            |
-| 2002 | KAB. KEPULAUAN RIAU            | KEPULAUAN RIAU            |
-| 2003 | KAB. NATUNA                    | NATUNA                    |
-| 2072 | KOTA TANJUNG PINANG            | TANJUNG PINANG            |
-| 2101 | KAB. KARIMUN                   | KARIMUN                   |
-| 2102 | KAB. BINTAN                    | BINTAN                    |
-| 2103 | KAB. NATUNA                    | NATUNA                    |
-| 2104 | KAB. LINGGA                    | LINGGA                    |
-| 2105 | KAB. KEPULAUAN ANABAS          | KEPULAUAN ANABAS          |
-| 2171 | KOTA BATAM                     | BATAM                     |
-| 2172 | KOTA TANJUNG PINANG            | KOTA TANJUNG PINANG       |
-| 3171 | JAKARTA SELATAN                | JAKARTA SELATAN           |
-| 3172 | JAKARTA TIMUR                  | JAKARTA TIMUR             |
-| 3173 | JAKARTA PUSAT                  | JAKARTA PUSAT             |
-| 3174 | JAKARTA BARAT                  | JAKARTA BARAT             |
-| 3175 | JAKARTA UTARA                  | JAKARTA UTARA             |
-| 3201 | KAB. BOGOR                     | BOGOR                     |
-| 3202 | KAB. SUKABUMI                  | SUKABUMI                  |
-| 3203 | KAB. CIANJUR                   | CIANJUR                   |
-| 3204 | KAB. BANDUNG                   | BANDUNG (KAB)             |
-| 3205 | KAB. GARUT                     | GARUT                     |
-| 3206 | KAB. TASIKMALAYA               | TASIKMALAYA               |
-| 3207 | KAB. CIAMIS                    | CIAMIS                    |
-| 3208 | KAB. KUNINGAN                  | KUNINGAN                  |
-| 3209 | KAB. CIREBON                   | CIREBON                   |
-| 3210 | KAB. MAJALENGKA                | MAJALENGKA                |
-| 3211 | KAB. SUMEDANG                  | SUMEDANG                  |
-| 3212 | KAB. INDRAMAYU                 | INDRAMAYU                 |
-| 3213 | KAB. SUBANG                    | SUBANG                    |
-| 3214 | KAB. PURWAKARTA                | PURWAKARTA                |
-| 3215 | KAB. KARAWANG                  | KARAWANG                  |
-| 3216 | KAB. BEKASI                    | BEKASI                    |
-| 3217 | BANDUNG BARAT                  | BANDUNG (BARAT)           |
-| 3218 | KAB. PANGANDARAN               | PANGANDARAN               |
-| 3271 | KOTA BOGOR                     | BOGOR                     |
-| 3272 | KOTA SUKABUMI                  | SUKABUMI                  |
-| 3273 | KOTA BANDUNG                   | BANDUNG                   |
-| 3274 | KOTA CIREBON                   | CIREBON                   |
-| 3275 | KOTA BEKASI                    | BEKASI                    |
-| 3276 | KOTA DEPOK                     | DEPOK                     |
-| 3277 | KOTA CIMAHI                    | CIMAHI                    |
-| 3278 | KOTA TASIKMALAYA               | TASIKMALAYA               |
-| 3279 | KOTA. BANJAR                   | BANJAR                    |
-| 3301 | KAB. CILACAP                   | CILACAP                   |
-| 3302 | KAB. BANYUMAS                  | BANYUMAS                  |
-| 3303 | KAB. PURBALINGGA               | PURBALINGGA               |
-| 3304 | KAB. BANJARNEGARA              | BANJARNEGARA              |
-| 3305 | KAB. KEBUMEN                   | KEBUMEN                   |
-| 3306 | KAB. PURWOREJO                 | PURWOREJO                 |
-| 3307 | KAB. WONOSOBO                  | WONOSOBO                  |
-| 3308 | KAB. MAGELANG                  | MAGELANG                  |
-| 3309 | KAB. BOYOLALI                  | BOYOLALI                  |
-| 3310 | KAB. KLATEN                    | KLATEN                    |
-| 3311 | KAB. SUKOHARJO                 | SUKOHARJO                 |
-| 3312 | KAB. WONOGIRI                  | WONOGIRI                  |
-| 3313 | KAB. KARANGANYAR               | KARANGANYAR               |
-| 3314 | KAB. SRAGEN                    | SRAGEN                    |
-| 3315 | KAB. GROBOGAN                  | GROBOGAN                  |
-| 3316 | KAB. BLORA                     | BLORA                     |
-| 3317 | KAB. REMBANG                   | REMBANG                   |
-| 3318 | KAB. PATI                      | PATI                      |
-| 3319 | KAB. KUDUS                     | KUDUS                     |
-| 3320 | KAB. JEPARA                    | JEPARA                    |
-| 3321 | KAB. DEMAK                     | DEMAK                     |
-| 3322 | KAB. SEMARANG                  | SEMARANG                  |
-| 3323 | KAB. TEMANGGUNG                | TEMANGGUNG                |
-| 3324 | KAB. KENDAL                    | KENDAL                    |
-| 3325 | KAB. BATANG                    | BATANG                    |
-| 3326 | KAB. PEKALONGAN                | PEKALONGAN                |
-| 3327 | KAB. PEMALANG                  | PEMALANG                  |
-| 3328 | KAB. TEGAL                     | TEGAL                     |
-| 3329 | KAB. BREBES                    | BREBES                    |
-| 3371 | KOTA MAGELANG                  | MAGELANG                  |
-| 3372 | KOTA SURAKARTA                 | SURAKARTA                 |
-| 3373 | KOTA SALATIGA                  | SALATIGA                  |
-| 3374 | KOTA SEMARANG                  | SEMARANG                  |
-| 3375 | KOTA PEKALONGAN                | PEKALONGAN                |
-| 3376 | KOTA TEGAL                     | TEGAL                     |
-| 3401 | KAB. KULON PROGO               | KULON PROGO               |
-| 3402 | KAB. BANTUL                    | BANTUL                    |
-| 3403 | KAB. GUNUNG KIDUL              | GUNUNG KIDUL              |
-| 3404 | KAB. SLEMAN                    | SLEMAN                    |
-| 3471 | KOTA YOGYAKARTA                | YOGYAKARTA                |
-| 3501 | KAB. PACITAN                   | PACITAN                   |
-| 3502 | KAB. PONOROGO                  | PONOROGO                  |
-| 3503 | KAB. TRENGGALEK                | TRENGGALEK                |
-| 3504 | KAB. TULUNGAGUNG               | TULUNGAGUNG               |
-| 3505 | KAB. BLITAR                    | BLITAR                    |
-| 3506 | KAB. KEDIRI                    | KEDIRI                    |
-| 3507 | KAB. MALANG                    | MALANG                    |
-| 3508 | KAB. LUMAJANG                  | LUMAJANG                  |
-| 3509 | KAB. JEMBER                    | JEMBER                    |
-| 3510 | KAB. BANYUWANGI                | BANYUWANGI                |
-| 3511 | KAB. BONDOWOSO                 | BONDOWOSO                 |
-| 3512 | KAB. SITUBONDO                 | SITUBONDO                 |
-| 3513 | KAB. PROBOLINGGO               | PROBOLINGGO               |
-| 3514 | KAB. PASURUAN                  | PASURUAN                  |
-| 3515 | KAB. SIDOARJO                  | SIDOARJO                  |
-| 3516 | KAB. MOJOKERTO                 | MOJOKERTO                 |
-| 3517 | KAB. JOMBANG                   | JOMBANG                   |
-| 3518 | KAB. NGANJUK                   | NGANJUK                   |
-| 3519 | KAB. MADIUN                    | MADIUN                    |
-| 3520 | KAB. MAGETAN                   | MAGETAN                   |
-| 3521 | KAB. NGAWI                     | NGAWI                     |
-| 3522 | KAB. BOJONEGORO                | BOJONEGORO                |
-| 3523 | KAB. TUBAN                     | TUBAN                     |
-| 3524 | KAB. LAMONGAN                  | LAMONGAN                  |
-| 3525 | KAB. GRESIK                    | GRESIK                    |
-| 3526 | KAB. BANGKALAN                 | BANGKALAN                 |
-| 3527 | KAB. SAMPANG                   | SAMPANG                   |
-| 3528 | KAB. PAMEKASAN                 | PAMEKASAN                 |
-| 3529 | KAB. SUMENEP                   | SUMENEP                   |
-| 3571 | KOTA KEDIRI                    | KEDIRI                    |
-| 3572 | KOTA BLITAR                    | BLITAR                    |
-| 3573 | KOTA MALANG                    | MALANG                    |
-| 3574 | KOTA PROBOLINGGO               | PROBOLINGGO               |
-| 3575 | KOTA PASURUAN                  | PASURUAN                  |
-| 3576 | KOTA MOJOKERTO                 | MOJOKERTO                 |
-| 3577 | KOTA MADIUN                    | MADIUN                    |
-| 3578 | KOTA SURABAYA                  | SURABAYA                  |
-| 3579 | KOTA BATU                      | BATU                      |
-| 3601 | KAB. PANDEGLANG                | PANDEGLANG                |
-| 3602 | KAB. LEBAK                     | LEBAK                     |
-| 3603 | KAB. TANGERANG                 | TANGERANG                 |
-| 3604 | KAB. SERANG                    | SERANG                    |
-| 3671 | KOTA TANGERANG                 | TANGERANG                 |
-| 3672 | KOTA CILEGON                   | CILEGON                   |
-| 3673 | KOTA SERANG                    | SERANG                    |
-| 3674 | KOTA TANGERANG SELATAN         | TANGERANG SELATAN         |
-| 5101 | KAB. JEMBRANA                  | JEMBRANA                  |
-| 5102 | KAB. TABANAN                   | TABANAN                   |
-| 5103 | KAB. BADUNG                    | BADUNG                    |
-| 5104 | KAB. GIANYAR                   | GIANYAR                   |
-| 5105 | KAB. KLUNGKUNG                 | KLUNGKUNG                 |
-| 5106 | KAB. BANGLI                    | BANGLI                    |
-| 5107 | KAB. KARANG ASEM               | KARANG ASEM               |
-| 5108 | KAB. BULELENG                  | BULELENG                  |
-| 5171 | KOTA DENPASAR                  | DENPASAR                  |
-| 5201 | KAB. LOMBOK BARAT              | LOMBOK BARAT              |
-| 5202 | KAB. LOMBOK TENGAH             | LOMBOK TENGAH             |
-| 5203 | KAB. LOMBOK TIMUR              | LOMBOK TIMUR              |
-| 5204 | KAB. SUMBAWA                   | SUMBAWA                   |
-| 5205 | KAB. DOMPU                     | DOMPU                     |
-| 5206 | KAB. BIMA                      | BIMA                      |
-| 5208 | KAB. LOMBOK UTARA              | LOMBOK UTARA              |
-| 5271 | KOTA MATARAM                   | MATARAM                   |
-| 5301 | KAB. SUMBA BARAT               | SUMBA BARAT               |
-| 5302 | KAB. SUMBA TIMUR               | SUMBA TIMUR               |
-| 5303 | KAB. KUPANG                    | KUPANG                    |
-| 5304 | KAB. TIMOR TENGAH SELATAN      | TIMOR TENGAH SELATAN      |
-| 5305 | KAB. TIMOR TENGAH UTARA        | TIMOR TENGAH UTARA        |
-| 5306 | KAB. BELU                      | BELU                      |
-| 5307 | KAB. ALOR                      | ALOR                      |
-| 5308 | KAB. LEMBATA                   | LEMBATA                   |
-| 5309 | KAB. FLORES TIMUR              | FLORES TIMUR              |
-| 5310 | KAB. SIKKA                     | SIKKA                     |
-| 5311 | KAB. ENDE                      | ENDE                      |
-| 5312 | KAB. NGADA                     | NGADA                     |
-| 5313 | KAB. MANGGARAI                 | MANGGARAI                 |
-| 5371 | KOTA KUPANG                    | KUPANG                    |
-| 6101 | KAB. SAMBAS                    | SAMBAS                    |
-| 6102 | KAB. BENGKAYANG                | BENGKAYANG                |
-| 6103 | KAB. LANDAK                    | LANDAK                    |
-| 6104 | KAB. MEMPAWAH                  | MEMPAWAH                  |
-| 6105 | KAB. SANGGAU                   | SANGGAU                   |
-| 6106 | KAB. KETAPANG                  | KETAPANG                  |
-| 6107 | KAB. SINTANG                   | SINTANG                   |
-| 6108 | KAB. KAPUAS HULU               | KAPUAS HULU               |
-| 6110 | KOTA SINGKAWANG                | SINGKAWANG                |
-| 6112 | KAB. KUBU RAYA                 | KUBU RAYA                 |
-| 6171 | KOTA PONTIANAK                 | PONTIANAK                 |
-| 6201 | KAB. KOTAWARINGIN BARAT        | KOTAWARINGIN BARAT        |
-| 6202 | KAB. KOTAWARINGIN TIMUR        | KOTAWARINGIN TIMUR        |
-| 6203 | KAB. KAPUAS                    | KAPUAS                    |
-| 6204 | KAB. BARITO SELATAN            | BARITO SELATAN            |
-| 6205 | KAB. BARITO UTARA              | BARITO UTARA              |
-| 6271 | KOTA PALANGKA RAYA             | PALANGKA RAYA             |
-| 6301 | KAB. TANAH LAUT                | TANAH LAUT                |
-| 6302 | KAB. KOTA BARU                 | BARU                      |
-| 6303 | KAB. BANJAR                    | BANJAR                    |
-| 6304 | KAB. BARITO KUALA              | BARITO KUALA              |
-| 6305 | KAB. TAPIN                     | TAPIN                     |
-| 6306 | KAB. HULU SUNGAI SELATAN       | HULU SUNGAI SELATAN       |
-| 6307 | KAB. HULU SUNGAI TENGAH        | HULU SUNGAI TENGAH        |
-| 6308 | KAB. HULU SUNGAI UTARA         | HULU SUNGAI UTARA         |
-| 6309 | KAB. TABALONG                  | TABALONG                  |
-| 6310 | KAB. TANAH BUMBU               | TANAH BUMBU               |
-| 6371 | KOTA BANJARMASIN               | BANJARMASIN               |
-| 6372 | KOTA BANJAR BARU               | BANJAR BARU               |
-| 6401 | KAB. PASER                     | PASER                     |
-| 6402 | KAB. KUTAI BARAT               | KUTAI BARAT               |
-| 6403 | KAB. KUTAI KARTANEGARA         | KUTAI KARTANEGARA         |
-| 6404 | KAB. KUTAI TIMUR               | KUTAI TIMUR               |
-| 6405 | KAB. BERAU                     | BERAU                     |
-| 6409 | KAB. PENAJAM PASER UTARA       | PENAJAM PASER UTARA       |
-| 6411 | KAB. MAHAKAM ULU               | MAHAKAM ULU               |
-| 6471 | KOTA BALIKPAPAN                | BALIKPAPAN                |
-| 6472 | KOTA SAMARINDA                 | SAMARINDA                 |
-| 6474 | KOTA BONTANG                   | BONTANG                   |
-| 6501 | KAB. MALINAU                   | MALINAU                   |
-| 6502 | KAB. BULUNGAN                  | BULUNGAN                  |
-| 6503 | KAB. TANA TIDUNG               | TANA TIDUNG               |
-| 6504 | KAB. NUNUKAN                   | NUNUKAN                   |
-| 6571 | KOTA TARAKAN                   | TARAKAN                   |
-| 7101 | KAB. BOLAANG MENGONDOW         | BOLAANG MENGONDOW         |
-| 7102 | KAB. MINAHASA                  | MINAHASA                  |
-| 7103 | KAB. SANGIHE TALAUD            | SANGIHE TALAUD            |
-| 7104 | KAB. KEPULAUAN TALAUD          | KEPULAUAN TALAUD          |
-| 7105 | KAB. MINAHASA SELATAN          | MINASAHA SELATAN          |
-| 7106 | KAB. MINAHASA UTARA            | MINAHASA UTARA            |
-| 7107 | KAB. BOLAANG MANGONDOW UTARA   | BOLAANG MANGONDOW UTARA   |
-| 7108 | KAB. KEP. SIAU TAGULANDANG     | KEP. SIAU TAGULANDANG     |
-| 7109 | KAB. MINAHASA TENGGARA         | MINAHASA TENGGARA         |
-| 7110 | KAB. BOLAANG MANGONDOW SELATAN | BOLAANG MANGONDOW SELATAN |
-| 7111 | KAB. BOLAANG MANGONDOW TIMUR   | BOLAANG MANGONDOW TIMUR   |
-| 7171 | KOTA MANADO                    | MANADO                    |
-| 7172 | KOTA BITUNG                    | BITUNG                    |
-| 7173 | KOTA TOMOHON                   | TOMOHON                   |
-| 7174 | KOTA KOTAMOBAGU                | KOTAMOBAGU                |
-| 7201 | KAB. BANGGAI KEPULAUAN         | BANGGAI KEPULAUAN         |
-| 7202 | KAB. BANGGAI                   | BANGGAI                   |
-| 7203 | KAB. MOROWALI                  | MOROWALI                  |
-| 7204 | KAB. POSO                      | POSO                      |
-| 7205 | KAB. DONGGALA                  | DONGGALA                  |
-| 7206 | KAB. TOLI-TOLI                 | TOLI-TOLI                 |
-| 7207 | KAB. BUOL                      | BUOL                      |
-| 7271 | KOTA PALU                      | PALU                      |
-| 7301 | KAB. SELAYAR                   | SELAYAR                   |
-| 7302 | KAB. BULUKUMBA                 | BULUKUMBA                 |
-| 7303 | KAB. BANTAENG                  | BANTAENG                  |
-| 7304 | KAB. JENEPONTO                 | JENEPONTO                 |
-| 7305 | KAB. TAKALAR                   | TAKALAR                   |
-| 7306 | KAB. GOWA                      | GOWA                      |
-| 7307 | KAB. SINJAI                    | SINJAI                    |
-| 7308 | KAB. MAROS                     | MAROS                     |
-| 7309 | KAB. PANGKAJENE KEPULAUAN      | PANGKAJENE KEPULAUAN      |
-| 7310 | KAB. BARRU                     | BARRU                     |
-| 7311 | KAB. BONE                      | BONE                      |
-| 7312 | KAB. SOPPENG                   | SOPPENG                   |
-| 7313 | KAB. WAJO                      | WAJO                      |
-| 7314 | KAB. SIDENRENG RAPPANG         | SIDENRENG RAPPANG         |
-| 7315 | KAB. PINRANG                   | PINRANG                   |
-| 7316 | KAB. ENREKANG                  | ENREKANG                  |
-| 7317 | KAB. LUWU                      | LUWU                      |
-| 7318 | KAB. TANA TORAJA               | TANA TORAJA               |
-| 7319 | KAB. POLEWALI MAMASA           | POLEWALI MAMASA           |
-| 7320 | KAB. MAJENE                    | MAJENE                    |
-| 7321 | KAB. MAMUJU                    | MAMUJU                    |
-| 7322 | KAB. LUWU UTARA                | LUWU UTARA                |
-| 7323 | KAB. LUWU TIMUR                | LUWU TIMUR                |
-| 7371 | KOTA MAKASSAR                  | MAKASSAR                  |
-| 7372 | KOTA PARE-PARE                 | PARE-PARE                 |
-| 7373 | KOTA PALOPO                    | PALOPO                    |
-| 7401 | KAB. BUTON                     | BUTON                     |
-| 7402 | KAB. MUNA                      | MUNA                      |
-| 7403 | KAB. KENDARI                   | KENDARI                   |
-| 7404 | KAB. KOLAKA                    | KOLAKA                    |
-| 7406 | KAB. BOMBANA                   | KAB. BOMBANA              |
-| 7471 | KOTA KENDARI                   | KENDARI                   |
-| 7501 | KAB. BOALEMO                   | BOALEMO                   |
-| 7502 | KAB. GORONTALO                 | GORONTALO                 |
-| 7503 | KAB. PAHUWATO                  | PAHUWATO                  |
-| 7504 | KAB. BONE BOLANGO              | BONE BOLANGO              |
-| 7505 | KAB. GORONTALO UTARA           | GORONTALO UTARA           |
-| 7571 | KOTA GORONTALO                 | GORONTALO                 |
-| 8101 | KAB. MALUKU TENGGARA BARAT     | MALUKU TENGGARA BARAT     |
-| 8102 | KAB. MALUKU TENGGARA           | MALUKU TENGGARA           |
-| 8103 | KAB. MALUKU TENGAH             | MALUKU TENGAH             |
-| 8104 | KAB. BURU                      | BURU                      |
-| 8171 | KOTA AMBON                     | AMBON                     |
-| 8201 | KAB. MALUKU UTARA              | MALUKU UTARA              |
-| 8202 | KAB. HALMAHERA TENGAH          | HALMAHERA TENGAH          |
-| 8204 | KAB. HALMAHERA SELATAN         | HALMAHERA SELATAN         |
-| 8271 | KOTA TERNATE                   | TERNATE                   |
-| 9101 | KAB. FAK-FAK                   | FAK-FAK                   |
-| 9102 | KAB. MANOKWARI                 | MANOKWARI                 |
-| 9103 | KAB. SORONG                    | SORONG                    |
-| 9171 | KOTA SORONG                    | SORONG                    |
-| 9403 | KAB. JAYAPURA                  | JAYAPURA                  |
-| 9412 | KAB. MIMIKA                    | TIMIKA                    |
-| 9413 | KOTA BOVEN DIGOEL              | BOVEN DIGOEL              |
+| Kode Kota | Nama Kota                        | Kode Provinsi | Nama Provinsi             |
+| --------- | -------------------------------- | ------------- | ------------------------- |
+| 1101      | Kab. Aceh Selatan                | 11            |  Nanggroe Aceh Darussalam |
+| 1102      | Kab. Aceh Tenggara               | 11            |  Nanggroe Aceh Darussalam |
+| 1103      | Kab. Aceh Timur                  | 11            |  Nanggroe Aceh Darussalam |
+| 1104      | Kab. Aceh Tengah                 | 11            |  Nanggroe Aceh Darussalam |
+| 1105      | Kab. Aceh Barat                  | 11            |  Nanggroe Aceh Darussalam |
+| 1106      | Kab. Aceh Besar                  | 11            |  Nanggroe Aceh Darussalam |
+| 1107      | Kab. Pidie                       | 11            |  Nanggroe Aceh Darussalam |
+| 1108      | Kab. Aceh Utara                  | 11            |  Nanggroe Aceh Darussalam |
+| 1109      | Kab. Simeulue                    | 11            |  Nanggroe Aceh Darussalam |
+| 1110      | Kab. Aceh Singkil                | 11            |  Nanggroe Aceh Darussalam |
+| 1111      | Kab. Bireuen                     | 11            |  Nanggroe Aceh Darussalam |
+| 1112      | Kab. Aceh Barat Daya             | 11            |  Nanggroe Aceh Darussalam |
+| 1113      | Kab. Gayo Lues                   | 11            |  Nanggroe Aceh Darussalam |
+| 1114      | Kab. Aceh Jaya                   | 11            |  Nanggroe Aceh Darussalam |
+| 1115      | Kab. Nagan Raya                  | 11            |  Nanggroe Aceh Darussalam |
+| 1116      | Kab. Aceh Tamiang                | 11            |  Nanggroe Aceh Darussalam |
+| 1117      | Kab. Bener Meriah                | 11            |  Nanggroe Aceh Darussalam |
+| 1118      | Kab. Pidie Jaya                  | 11            |  Nanggroe Aceh Darussalam |
+| 1171      | Kota Banda Aceh                  | 11            |  Nanggroe Aceh Darussalam |
+| 1172      | Kota Sabang                      | 11            |  Nanggroe Aceh Darussalam |
+| 1173      | Kota Lhokseumawe                 | 11            |  Nanggroe Aceh Darussalam |
+| 1174      | Kota Langsa                      | 11            |  Nanggroe Aceh Darussalam |
+| 1175      | Kota Sabulussalam                | 11            |  Nanggroe Aceh Darussalam |
+| 1201      | Kab. Tapanuli Tengah             | 12            |  Sumatera Utara           |
+| 1202      | Kab. Tapanuli Utara              | 12            |  Sumatera Utara           |
+| 1203      | Kab. Tapanuli Selatan            | 12            |  Sumatera Utara           |
+| 1204      | Kab. Nias                        | 12            |  Sumatera Utara           |
+| 1205      | Kab. Langkat                     | 12            |  Sumatera Utara           |
+| 1206      | Kab. Karo                        | 12            |  Sumatera Utara           |
+| 1207      | Kab. Deli Serdang                | 12            |  Sumatera Utara           |
+| 1208      | Kab. Simalungun                  | 12            |  Sumatera Utara           |
+| 1209      | Kab. Asahan                      | 12            |  Sumatera Utara           |
+| 1210      | Kab. Labuhan Batu                | 12            |  Sumatera Utara           |
+| 1211      | Kab. Dairi                       | 12            |  Sumatera Utara           |
+| 1212      | Kab. Toba Samosir                | 12            |  Sumatera Utara           |
+| 1213      | Kab. Mandailing Natal            | 12            |  Sumatera Utara           |
+| 1214      | Kab. Nias Selatan                | 12            |  Sumatera Utara           |
+| 1215      | Kab. Pakpak Bharat               | 12            |  Sumatera Utara           |
+| 1216      | Kab. Humbang Hasundutan          | 12            |  Sumatera Utara           |
+| 1217      | Kab. Samosir                     | 12            |  Sumatera Utara           |
+| 1218      | Kab. Serdang Bedagai             | 12            |  Sumatera Utara           |
+| 1219      | Kab. Batu Bara                   | 12            |  Sumatera Utara           |
+| 1220      | Kab. Padang Lawas Utara          | 12            |  Sumatera Utara           |
+| 1221      | Kab. Padang Lawas                | 12            |  Sumatera Utara           |
+| 1222      | Kab. Labuhanbatu Selatan         | 12            |  Sumatera Utara           |
+| 1223      | Kab. Labuhanbatu Utara           | 12            |  Sumatera Utara           |
+| 1224      | Kab. Nias Utara                  | 12            |  Sumatera Utara           |
+| 1225      | Kab. Nias Barat                  | 12            |  Sumatera Utara           |
+| 1271      | Kota Medan                       | 12            |  Sumatera Utara           |
+| 1272      | Kota Pematang Siantar            | 12            |  Sumatera Utara           |
+| 1273      | Kota Sibolga                     | 12            |  Sumatera Utara           |
+| 1274      | Kota Tanjung Balai               | 12            |  Sumatera Utara           |
+| 1275      | Kota Binjai                      | 12            |  Sumatera Utara           |
+| 1276      | Kota Tebing Tinggi               | 12            |  Sumatera Utara           |
+| 1277      | Kota Padang Sidempuan            | 12            |  Sumatera Utara           |
+| 1278      | Kota Gunungsitoli                | 12            |  Sumatera Utara           |
+| 1301      | Kab. Pesisir Selatan             | 13            |  Sumatera Barat           |
+| 1302      | Kab. Solok                       | 13            |  Sumatera Barat           |
+| 1303      | Kab. Sawahlunto/Sijunjung        | 13            |  Sumatera Barat           |
+| 1304      | Kab. Tanah Datar                 | 13            |  Sumatera Barat           |
+| 1305      | Kab. Padang Pariaman             | 13            |  Sumatera Barat           |
+| 1306      | Kab. Agam                        | 13            |  Sumatera Barat           |
+| 1307      | Kab. Lima Puluh Koto             | 13            |  Sumatera Barat           |
+| 1308      | Kab. Pasaman                     | 13            |  Sumatera Barat           |
+| 1309      | Kab. Kepulauan Mentawai          | 13            |  Sumatera Barat           |
+| 1310      | Kab. Dharmasraya                 | 13            |  Sumatera Barat           |
+| 1311      | Kab. Solok Selatan               | 13            |  Sumatera Barat           |
+| 1312      | Kab. Pasaman Barat               | 13            |  Sumatera Barat           |
+| 1371      | Kota Padang                      | 13            |  Sumatera Barat           |
+| 1372      | Kota Solok                       | 13            |  Sumatera Barat           |
+| 1373      | Kota Sawah Lunto                 | 13            |  Sumatera Barat           |
+| 1374      | Kota Padang Panjang              | 13            |  Sumatera Barat           |
+| 1375      | Kota Bukittinggi                 | 13            |  Sumatera Barat           |
+| 1376      | Kota Payakumbuh                  | 13            |  Sumatera Barat           |
+| 1377      | Kota Pariaman                    | 13            |  Sumatera Barat           |
+| 1401      | Kab. Kampar                      | 14            |  Riau                     |
+| 1402      | Kab. Indragiri Hulu              | 14            |  Riau                     |
+| 1403      | Kab. Bengkalis                   | 14            |  Riau                     |
+| 1404      | Kab. Indragiri Hilir             | 14            |  Riau                     |
+| 1405      | Kab. Pelalawan                   | 14            |  Riau                     |
+| 1406      | Kab. Rokan Hulu                  | 14            |  Riau                     |
+| 1407      | Kab. Rokan Hilir                 | 14            |  Riau                     |
+| 1408      | Kab. Siak                        | 14            |  Riau                     |
+| 1409      | Kab. Kuantan Singingi            | 14            |  Riau                     |
+| 1410      | Kab. Kepulauan Meranti           | 14            |  Riau                     |
+| 1471      | Kota Pekan Baru                  | 14            |  Riau                     |
+| 1472      | Kota Dumai                       | 14            |  Riau                     |
+| 1501      | Kab. Kerinci                     | 15            |  Jambi                    |
+| 1502      | Kab. Merangin                    | 15            |  Jambi                    |
+| 1503      | Kab. Sarolangun                  | 15            |  Jambi                    |
+| 1504      | Kab. Batang Hari                 | 15            |  Jambi                    |
+| 1505      | Kab. Muaro Jambi                 | 15            |  Jambi                    |
+| 1506      | Kab. Tanjung Jabung Barat        | 15            |  Jambi                    |
+| 1507      | Kab. Tanjung Jabung Timur        | 15            |  Jambi                    |
+| 1508      | Kab. Bungo                       | 15            |  Jambi                    |
+| 1509      | Kab. Tebo                        | 15            |  Jambi                    |
+| 1571      | Kota Jambi                       | 15            |  Jambi                    |
+| 1572      | Kota Sungai Penuh                | 15            |  Jambi                    |
+| 1601      | Kab. Ogan Komering Ulu           | 16            |  Sumatera Selatan         |
+| 1602      | Kab. Ogan Komering Ilir          | 16            |  Sumatera Selatan         |
+| 1603      | Kab. Muara Enim                  | 16            |  Sumatera Selatan         |
+| 1604      | Kab. Lahat                       | 16            |  Sumatera Selatan         |
+| 1605      | Kab. Musi Rawas                  | 16            |  Sumatera Selatan         |
+| 1606      | Kab. Musi Banyu Asin             | 16            |  Sumatera Selatan         |
+| 1607      | Kab. Banyu Asin                  | 16            |  Sumatera Selatan         |
+| 1608      | Kab. Ogan Komering Ulu Timur     | 16            |  Sumatera Selatan         |
+| 1609      | Kab. Ogan Komering Ulu Selatan   | 16            |  Sumatera Selatan         |
+| 1610      | Kab. Ogan Ilir                   | 16            |  Sumatera Selatan         |
+| 1611      | Kab. Empat Lawang                | 16            |  Sumatera Selatan         |
+| 1612      | Kab. Penukal Abab Lematang Ilir  | 16            |  Sumatera Selatan         |
+| 1613      | Kab. Musi Rawas Utara            | 16            |  Sumatera Selatan         |
+| 1671      | Kota Palembang                   | 16            |  Sumatera Selatan         |
+| 1672      | Kota Pagar Alam                  | 16            |  Sumatera Selatan         |
+| 1673      | Kota Lubuklinggau                | 16            |  Sumatera Selatan         |
+| 1674      | Kota Prabumulih                  | 16            |  Sumatera Selatan         |
+| 1701      | Kab. Bengkulu Selatan            | 17            |  Bengkulu                 |
+| 1702      | Kab. Rejang Lebong               | 17            |  Bengkulu                 |
+| 1703      | Kab. Bengkulu Utara              | 17            |  Bengkulu                 |
+| 1704      | Kab. Kaur                        | 17            |  Bengkulu                 |
+| 1705      | Kab. Seluma                      | 17            |  Bengkulu                 |
+| 1706      | Kab. Mukomuko                    | 17            |  Bengkulu                 |
+| 1707      | Kab. Lebong                      | 17            |  Bengkulu                 |
+| 1708      | Kab. Kepahiang                   | 17            |  Bengkulu                 |
+| 1709      | Kab. Bengkulu Tengah             | 17            |  Bengkulu                 |
+| 1771      | Kota Bengkulu                    | 17            |  Bengkulu                 |
+| 1801      | Kab. Lampung Selatan             | 18            |  Lampung                  |
+| 1802      | Kab. Lampung Tengah              | 18            |  Lampung                  |
+| 1803      | Kab. Lampung Utara               | 18            |  Lampung                  |
+| 1804      | Kab. Lampung Barat               | 18            |  Lampung                  |
+| 1805      | Kab. Tulang Bawang               | 18            |  Lampung                  |
+| 1806      | Kab. Tanggamus                   | 18            |  Lampung                  |
+| 1807      | Kab. Lampung Timur               | 18            |  Lampung                  |
+| 1808      | Kab. Way Kanan                   | 18            |  Lampung                  |
+| 1809      | Kab. Pesawaran                   | 18            |  Lampung                  |
+| 1810      | Kab. Pringsewu                   | 18            |  Lampung                  |
+| 1811      | Kab. Mesuji                      | 18            |  Lampung                  |
+| 1812      | Kab. Tulang Bawang Barat         | 18            |  Lampung                  |
+| 1813      | Kab. Pesisir Barat               | 18            |  Lampung                  |
+| 1871      | Kota Bandar Lampung              | 18            |  Lampung                  |
+| 1872      | Kota Metro                       | 18            |  Lampung                  |
+| 1901      | Kab. Bangka                      | 19            |  Kep. Bangka Belitung     |
+| 1902      | Kab. Belitung                    | 19            |  Kep. Bangka Belitung     |
+| 1903      | Kab. Bangka Selatan              | 19            |  Kep. Bangka Belitung     |
+| 1904      | Kab. Bangka Tengah               | 19            |  Kep. Bangka Belitung     |
+| 1905      | Kab. Bangka Barat                | 19            |  Kep. Bangka Belitung     |
+| 1906      | Kab. Belitung Timur              | 19            |  Kep. Bangka Belitung     |
+| 1971      | Kota Pangkal Pinang              | 19            |  Kep. Bangka Belitung     |
+| 2101      | Kab. Bintan                      | 21            |  Kep. Riau                |
+| 2102      | Kab. Karimun                     | 21            |  Kep. Riau                |
+| 2103      | Kab. Natuna                      | 21            |  Kep. Riau                |
+| 2104      | Kab. Lingga                      | 21            |  Kep. Riau                |
+| 2105      | Kab. Kepulauan Anambas           | 21            |  Kep. Riau                |
+| 2171      | Kota Batam                       | 21            |  Kep. Riau                |
+| 2172      | Kota Tanjung Pinang              | 21            |  Kep. Riau                |
+| 3101      | Kab. Kepulauan Seribu            | 31            |  DKI Jakarta              |
+| 3171      | Kota Jakarta Pusat               | 31            |  DKI Jakarta              |
+| 3172      | Kota Jakarta Utara               | 31            |  DKI Jakarta              |
+| 3173      | Kota Jakarta Barat               | 31            |  DKI Jakarta              |
+| 3174      | Kota Jakarta Selatan             | 31            |  DKI Jakarta              |
+| 3175      | Kota Jakarta Timur               | 31            |  DKI Jakarta              |
+| 3201      | Kab. Bogor                       | 32            |  Jawa Barat               |
+| 3202      | Kab. Sukabumi                    | 32            |  Jawa Barat               |
+| 3203      | Kab. Cianjur                     | 32            |  Jawa Barat               |
+| 3204      | Kab. Bandung                     | 32            |  Jawa Barat               |
+| 3205      | Kab. Garut                       | 32            |  Jawa Barat               |
+| 3206      | Kab. Tasikmalaya                 | 32            |  Jawa Barat               |
+| 3207      | Kab. Ciamis                      | 32            |  Jawa Barat               |
+| 3208      | Kab. Kuningan                    | 32            |  Jawa Barat               |
+| 3209      | Kab. Cirebon                     | 32            |  Jawa Barat               |
+| 3210      | Kab. Majalengka                  | 32            |  Jawa Barat               |
+| 3211      | Kab. Sumedang                    | 32            |  Jawa Barat               |
+| 3212      | Kab. Indramayu                   | 32            |  Jawa Barat               |
+| 3213      | Kab. Subang                      | 32            |  Jawa Barat               |
+| 3214      | Kab. Purwakarta                  | 32            |  Jawa Barat               |
+| 3215      | Kab. Karawang                    | 32            |  Jawa Barat               |
+| 3216      | Kab. Bekasi                      | 32            |  Jawa Barat               |
+| 3217      | Kab. Bandung Barat               | 32            |  Jawa Barat               |
+| 3218      | Kab. Pangandaran                 | 32            |  Jawa Barat               |
+| 3271      | Kota Bogor                       | 32            |  Jawa Barat               |
+| 3272      | Kota Sukabumi                    | 32            |  Jawa Barat               |
+| 3273      | Kota Bandung                     | 32            |  Jawa Barat               |
+| 3274      | Kota Cirebon                     | 32            |  Jawa Barat               |
+| 3275      | Kota Bekasi                      | 32            |  Jawa Barat               |
+| 3276      | Kota Depok                       | 32            |  Jawa Barat               |
+| 3277      | Kota Cimahi                      | 32            |  Jawa Barat               |
+| 3278      | Kota Tasikmalaya                 | 32            |  Jawa Barat               |
+| 3279      | Kota Banjar                      | 32            |  Jawa Barat               |
+| 3301      | Kab. Cilacap                     | 33            |  Jawa Tengah              |
+| 3302      | Kab. Banyumas                    | 33            |  Jawa Tengah              |
+| 3303      | Kab. Purbalingga                 | 33            |  Jawa Tengah              |
+| 3304      | Kab. Banjarnegara                | 33            |  Jawa Tengah              |
+| 3305      | Kab. Kebumen                     | 33            |  Jawa Tengah              |
+| 3306      | Kab. Purworejo                   | 33            |  Jawa Tengah              |
+| 3307      | Kab. Wonosobo                    | 33            |  Jawa Tengah              |
+| 3308      | Kab. Magelang                    | 33            |  Jawa Tengah              |
+| 3309      | Kab. Boyolali                    | 33            |  Jawa Tengah              |
+| 3310      | Kab. Klaten                      | 33            |  Jawa Tengah              |
+| 3311      | Kab. Sukoharjo                   | 33            |  Jawa Tengah              |
+| 3312      | Kab. Wonogiri                    | 33            |  Jawa Tengah              |
+| 3313      | Kab. Karanganyar                 | 33            |  Jawa Tengah              |
+| 3314      | Kab. Sragen                      | 33            |  Jawa Tengah              |
+| 3315      | Kab. Grobogan                    | 33            |  Jawa Tengah              |
+| 3316      | Kab. Blora                       | 33            |  Jawa Tengah              |
+| 3317      | Kab. Rembang                     | 33            |  Jawa Tengah              |
+| 3318      | Kab. Pati                        | 33            |  Jawa Tengah              |
+| 3319      | Kab. Kudus                       | 33            |  Jawa Tengah              |
+| 3320      | Kab. Jepara                      | 33            |  Jawa Tengah              |
+| 3321      | Kab. Demak                       | 33            |  Jawa Tengah              |
+| 3322      | Kab. Semarang                    | 33            |  Jawa Tengah              |
+| 3323      | Kab. Temanggung                  | 33            |  Jawa Tengah              |
+| 3324      | Kab. Kendal                      | 33            |  Jawa Tengah              |
+| 3325      | Kab. Batang                      | 33            |  Jawa Tengah              |
+| 3326      | Kab. Pekalongan                  | 33            |  Jawa Tengah              |
+| 3327      | Kab. Pemalang                    | 33            |  Jawa Tengah              |
+| 3328      | Kab. Tegal                       | 33            |  Jawa Tengah              |
+| 3329      | Kab. Brebes                      | 33            |  Jawa Tengah              |
+| 3371      | Kota Magelang                    | 33            |  Jawa Tengah              |
+| 3372      | Kota Surakarta                   | 33            |  Jawa Tengah              |
+| 3373      | Kota Salatiga                    | 33            |  Jawa Tengah              |
+| 3374      | Kota Semarang                    | 33            |  Jawa Tengah              |
+| 3375      | Kota Pekalongan                  | 33            |  Jawa Tengah              |
+| 3376      | Kota Tegal                       | 33            |  Jawa Tengah              |
+| 3401      | Kab. Kulon Progo                 | 34            |  D.I. Yogyakarta          |
+| 3402      | Kab. Bantul                      | 34            |  D.I. Yogyakarta          |
+| 3403      | Kab. Gunung Kidul                | 34            |  D.I. Yogyakarta          |
+| 3404      | Kab. Sleman                      | 34            |  D.I. Yogyakarta          |
+| 3471      | Kota Yogyakarta                  | 34            |  D.I. Yogyakarta          |
+| 3501      | Kab. Pacitan                     | 35            |  Jawa Timur               |
+| 3502      | Kab. Ponorogo                    | 35            |  Jawa Timur               |
+| 3503      | Kab. Trenggalek                  | 35            |  Jawa Timur               |
+| 3504      | Kab. Tulungagung                 | 35            |  Jawa Timur               |
+| 3505      | Kab. Blitar                      | 35            |  Jawa Timur               |
+| 3506      | Kab. Kediri                      | 35            |  Jawa Timur               |
+| 3507      | Kab. Malang                      | 35            |  Jawa Timur               |
+| 3508      | Kab. Lumajang                    | 35            |  Jawa Timur               |
+| 3508      | Kab. Lumajang                    | 35            |  Jawa Timur               |
+| 3509      | Kab. Jember                      | 35            |  Jawa Timur               |
+| 3510      | Kab. Banyuwangi                  | 35            |  Jawa Timur               |
+| 3511      | Kab. Bondowoso                   | 35            |  Jawa Timur               |
+| 3512      | Kab. Situbondo                   | 35            |  Jawa Timur               |
+| 3513      | Kab. Probolinggo                 | 35            |  Jawa Timur               |
+| 3514      | Kab. Pasuruan                    | 35            |  Jawa Timur               |
+| 3515      | Kab. Sidoarjo                    | 35            |  Jawa Timur               |
+| 3516      | Mojokerto                        | 35            |  Jawa Timur               |
+| 3517      | Kab. Jombang                     | 35            |  Jawa Timur               |
+| 3518      | Kab. Nganjuk                     | 35            |  Jawa Timur               |
+| 3519      | Kab. Madiun                      | 35            |  Jawa Timur               |
+| 3520      | Kab. Magetan                     | 35            |  Jawa Timur               |
+| 3521      | Kab. Ngawi                       | 35            |  Jawa Timur               |
+| 3522      | Kab. Bojonegoro                  | 35            |  Jawa Timur               |
+| 3523      | Kab. Tuban                       | 35            |  Jawa Timur               |
+| 3524      | Kab. Lamongan                    | 35            |  Jawa Timur               |
+| 3525      | Kab. Gresik                      | 35            |  Jawa Timur               |
+| 3526      | Kab. Bangkalan                   | 35            |  Jawa Timur               |
+| 3527      | Kab. Sampang                     | 35            |  Jawa Timur               |
+| 3528      | Kab. Pamekasan                   | 35            |  Jawa Timur               |
+| 3529      | Kab. Sumenep                     | 35            |  Jawa Timur               |
+| 3571      | Kota Kediri                      | 35            |  Jawa Timur               |
+| 3572      | Kota Blitar                      | 35            |  Jawa Timur               |
+| 3573      | Kota Malang                      | 35            |  Jawa Timur               |
+| 3574      | Kota Probolinggo                 | 35            |  Jawa Timur               |
+| 3575      | Kota Pasuruan                    | 35            |  Jawa Timur               |
+| 3576      | Kota Mojokerto                   | 35            |  Jawa Timur               |
+| 3577      | Kota Madiun                      | 35            |  Jawa Timur               |
+| 3578      | Kota Surabaya                    | 35            |  Jawa Timur               |
+| 3579      | Kota Batu                        | 35            |  Jawa Timur               |
+| 3601      | Kab. Pandeglang                  | 36            |  Banten                   |
+| 3602      | Kab. Lebak                       | 36            |  Banten                   |
+| 3603      | Kab. Tangerang                   | 36            |  Banten                   |
+| 3604      | Kab. Serang                      | 36            |  Banten                   |
+| 3671      | Kota Tangerang                   | 36            |  Banten                   |
+| 3672      | Kota Cilegon                     | 36            |  Banten                   |
+| 3673      | Kota Serang                      | 36            |  Banten                   |
+| 3674      | Kota Tangerang Selatan           | 36            |  Banten                   |
+| 5101      | Kab. Jembrana                    | 51            |  Bali                     |
+| 5102      | Kab. Tabanan                     | 51            |  Bali                     |
+| 5103      | Kab. Badung                      | 51            |  Bali                     |
+| 5104      | Kab. Gianyar                     | 51            |  Bali                     |
+| 5105      | Kab. Klungkung                   | 51            |  Bali                     |
+| 5106      | Kab. Bangli                      | 51            |  Bali                     |
+| 5107      | Kab. Karang Asem                 | 51            |  Bali                     |
+| 5108      | Kab. Buleleng                    | 51            |  Bali                     |
+| 5171      | Kota Denpasar                    | 51            |  Bali                     |
+| 5201      | Kab. Lombok Barat                | 52            |  Nusa Tenggara Barat      |
+| 5202      | Kab. Lombok Tengah               | 52            |  Nusa Tenggara Barat      |
+| 5203      | Kab. Lombok Timur                | 52            |  Nusa Tenggara Barat      |
+| 5204      | Kab. Sumbawa                     | 52            |  Nusa Tenggara Barat      |
+| 5205      | Kab. Dompu                       | 52            |  Nusa Tenggara Barat      |
+| 5206      | Kab. Bima                        | 52            |  Nusa Tenggara Barat      |
+| 5207      | Kab. Sumbawa Barat               | 52            |  Nusa Tenggara Barat      |
+| 5208      | Kab. Lombok Utara                | 52            |  Nusa Tenggara Barat      |
+| 5271      | Kota Mataram                     | 52            |  Nusa Tenggara Barat      |
+| 5272      | Kota Bima                        | 52            |  Nusa Tenggara Barat      |
+| 5301      | Kab. Kupang                      | 53            |  Nusa Tenggara Timur      |
+| 5302      | Kab. Timor Tengah Selatan        | 53            |  Nusa Tenggara Timur      |
+| 5303      | Kab. Timor Tengah Utara          | 53            |  Nusa Tenggara Timur      |
+| 5304      | Kab. Belu                        | 53            |  Nusa Tenggara Timur      |
+| 5305      | Kab. Alor                        | 53            |  Nusa Tenggara Timur      |
+| 5306      | Kab. Flores Timur                | 53            |  Nusa Tenggara Timur      |
+| 5307      | Kab. Sikka                       | 53            |  Nusa Tenggara Timur      |
+| 5308      | Kab. Ende                        | 53            |  Nusa Tenggara Timur      |
+| 5309      | Kab. Ngada                       | 53            |  Nusa Tenggara Timur      |
+| 5310      | Kab. Manggarai                   | 53            |  Nusa Tenggara Timur      |
+| 5311      | Kab. Sumba Timur                 | 53            |  Nusa Tenggara Timur      |
+| 5312      | Kab. Sumba Barat                 | 53            |  Nusa Tenggara Timur      |
+| 5313      | Kab. Lembata                     | 53            |  Nusa Tenggara Timur      |
+| 5314      | Kab. Rote Nda                    | 53            |  Nusa Tenggara Timur      |
+| 5315      | Kab. Manggarai Barat             | 53            |  Nusa Tenggara Timur      |
+| 5316      | Kab. Nagekeo                     | 53            |  Nusa Tenggara Timur      |
+| 5317      | Kab. Sumba Tengah                | 53            |  Nusa Tenggara Timur      |
+| 5318      | Kab. Sumba Barat Daya            | 53            |  Nusa Tenggara Timur      |
+| 5319      | Kab. Manggarai Timur             | 53            |  Nusa Tenggara Timur      |
+| 5320      | Kab. Sabu Raijua                 | 53            |  Nusa Tenggara Timur      |
+| 5321      | Kab. Malaka                      | 53            |  Nusa Tenggara Timur      |
+| 5371      | Kota Kupang                      | 53            |  Nusa Tenggara Timur      |
+| 6101      | Kab. Sambas                      | 61            |  Kalimantan Barat         |
+| 6102      | Kab. Mempawah                    | 61            |  Kalimantan Barat         |
+| 6103      | Kab. Sanggau                     | 61            |  Kalimantan Barat         |
+| 6104      | Kab. Ketapang                    | 61            |  Kalimantan Barat         |
+| 6105      | Kab. Sintang                     | 61            |  Kalimantan Barat         |
+| 6106      | Kab. Kapuas Hulu                 | 61            |  Kalimantan Barat         |
+| 6107      | Kab. Bengkayang                  | 61            |  Kalimantan Barat         |
+| 6108      | Kab. Landak                      | 61            |  Kalimantan Barat         |
+| 6109      | Kab. Sekadau                     | 61            |  Kalimantan Barat         |
+| 6110      | Kab. Melawi                      | 61            |  Kalimantan Barat         |
+| 6111      | Kab. Kayong Utara                | 61            |  Kalimantan Barat         |
+| 6112      | Kab. Kubu Raya                   | 61            |  Kalimantan Barat         |
+| 6171      | Kota Pontianak                   | 61            |  Kalimantan Barat         |
+| 6172      | Kota Singkawang                  | 61            |  Kalimantan Barat         |
+| 6201      | Kab. Kotawaringin Barat          | 62            |  Kalimantan Tengah        |
+| 6202      | Kab. Kotawaringin Timur          | 62            |  Kalimantan Tengah        |
+| 6203      | Kab. Kapuas                      | 62            |  Kalimantan Tengah        |
+| 6204      | Kab. Barito Selatan              | 62            |  Kalimantan Tengah        |
+| 6205      | Kab. Barito Utara                | 62            |  Kalimantan Tengah        |
+| 6206      | Kab. Katingan                    | 62            |  Kalimantan Tengah        |
+| 6207      | Kab. Seruyan                     | 62            |  Kalimantan Tengah        |
+| 6208      | Kab. Sukamara                    | 62            |  Kalimantan Tengah        |
+| 6209      | Kab. Lamandau                    | 62            |  Kalimantan Tengah        |
+| 6210      | Kab. Gunung Mas                  | 62            |  Kalimantan Tengah        |
+| 6211      | Kab. Pulang Pisau                | 62            |  Kalimantan Tengah        |
+| 6212      | Kab. Murung Raya                 | 62            |  Kalimantan Tengah        |
+| 6213      | Kab. Barito Timur                | 62            |  Kalimantan Tengah        |
+| 6271      | Kota Palangka Raya               | 62            |  Kalimantan Tengah        |
+| 6301      | Kab. Tanah Laut                  | 63            |  Kalimantan Selatan       |
+| 6302      | Kab. Kota Baru                   | 63            |  Kalimantan Selatan       |
+| 6303      | Kab. Banjar                      | 63            |  Kalimantan Selatan       |
+| 6304      | Kab. Barito Kuala                | 63            |  Kalimantan Selatan       |
+| 6305      | Kab. Tapin                       | 63            |  Kalimantan Selatan       |
+| 6306      | Kab. Hulu Sungai Selatan         | 63            |  Kalimantan Selatan       |
+| 6307      | Kab. Hulu Sungai Tengah          | 63            |  Kalimantan Selatan       |
+| 6308      | Kab. Hulu Sungai Utara           | 63            |  Kalimantan Selatan       |
+| 6309      | Kab. Tabalong                    | 63            |  Kalimantan Selatan       |
+| 6310      | Kab. Tanah Bumbu                 | 63            |  Kalimantan Selatan       |
+| 6311      | Kab. Balangan                    | 63            |  Kalimantan Selatan       |
+| 6371      | Kota Banjarmasin                 | 63            |  Kalimantan Selatan       |
+| 6372      | Kota Banjar Baru                 | 63            |  Kalimantan Selatan       |
+| 6401      | Kab. Pasir                       | 64            |  Kalimantan Timur         |
+| 6402      | Kab. Kutai Kartanegara           | 64            |  Kalimantan Timur         |
+| 6403      | Kab. Berau                       | 64            |  Kalimantan Timur         |
+| 6407      | Kab. Kutai Barat                 | 64            |  Kalimantan Timur         |
+| 6408      | Kab. Kutai Timur                 | 64            |  Kalimantan Timur         |
+| 6409      | Kab. Penajam Paser Utara         | 64            |  Kalimantan Timur         |
+| 6411      | Kab. Mahakam Ulu                 | 64            |  Kalimantan Timur         |
+| 6471      | Kota Balikpapan                  | 64            |  Kalimantan Timur         |
+| 6472      | Kota Samarinda                   | 64            |  Kalimantan Timur         |
+| 6474      | Kota Bontang                     | 64            |  Kalimantan Timur         |
+| 6501      | Kab. Bulungan                    | 65            |  Kalimantan Utara         |
+| 6502      | Kab. Malinau                     | 65            |  Kalimantan Utara         |
+| 6503      | Kab. Nunukan                     | 65            |  Kalimantan Utara         |
+| 6504      | Kab. Tana Tidung                 | 65            |  Kalimantan Utara         |
+| 6571      | Kota Tarakan                     | 65            |  Kalimantan Utara         |
+| 7101      | Kab. Bolaang Mengondow           | 71            |  Sulawesi Utara           |
+| 7102      | Kab. Minahasa                    | 71            |  Sulawesi Utara           |
+| 7103      | Kab. Kepulauan Sangihe           | 71            |  Sulawesi Utara           |
+| 7104      | Kab. Kepulauan Talaud            | 71            |  Sulawesi Utara           |
+| 7105      | Kab. Minahasa Selatan            | 71            |  Sulawesi Utara           |
+| 7106      | Kab. Minahasa Utara              | 71            |  Sulawesi Utara           |
+| 7107      | Kab. Minahasa Tenggara           | 71            |  Sulawesi Utara           |
+| 7108      | Kab. Bolaang Mongondow Utara     | 71            |  Sulawesi Utara           |
+| 7109      | Kab. Kep. Siau Tagulandang Biaro | 71            |  Sulawesi Utara           |
+| 7110      | Kab. Bolaang Mongondow Timur     | 71            |  Sulawesi Utara           |
+| 7111      | Kab. Bolaang Mongondow Selatan   | 71            |  Sulawesi Utara           |
+| 7171      | Kota Manado                      | 71            |  Sulawesi Utara           |
+| 7172      | Kota Bitung                      | 71            |  Sulawesi Utara           |
+| 7173      | Kota Tomohon                     | 71            |  Sulawesi Utara           |
+| 7174      | Kota Kotamobagu                  | 71            |  Sulawesi Utara           |
+| 7201      | Kab. Banggai                     | 72            |  Sulawesi Tengah          |
+| 7202      | Kab. Poso                        | 72            |  Sulawesi Tengah          |
+| 7203      | Kab. Donggala                    | 72            |  Sulawesi Tengah          |
+| 7204      | Kab. Toli-Toli                   | 72            |  Sulawesi Tengah          |
+| 7205      | Kab. Buol                        | 72            |  Sulawesi Tengah          |
+| 7206      | Kab. Morowali                    | 72            |  Sulawesi Tengah          |
+| 7207      | Kab. Banggai Kepulauan           | 72            |  Sulawesi Tengah          |
+| 7208      | Kab. Parigi Moutong              | 72            |  Sulawesi Tengah          |
+| 7209      | Kab. Tojo Una-una                | 72            |  Sulawesi Tengah          |
+| 7210      | Kab. Sigi                        | 72            |  Sulawesi Tengah          |
+| 7211      | Kab. Banggai Laut                | 72            |  Sulawesi Tengah          |
+| 7212      | Kab. Morowali Utara              | 72            |  Sulawesi Tengah          |
+| 7271      | Kota Palu                        | 72            |  Sulawesi Tengah          |
+| 7301      | Kab. Selayar                     | 73            |  Sulawesi Selatan         |
+| 7302      | Kab. Bulukumba                   | 73            |  Sulawesi Selatan         |
+| 7303      | Kab. Bantaeng                    | 73            |  Sulawesi Selatan         |
+| 7304      | Kab. Jeneponto                   | 73            |  Sulawesi Selatan         |
+| 7305      | Kab. Takalar                     | 73            |  Sulawesi Selatan         |
+| 7306      | Kab. Gowa                        | 73            |  Sulawesi Selatan         |
+| 7307      | Kab. Sinjai                      | 73            |  Sulawesi Selatan         |
+| 7308      | Kab. Bone                        | 73            |  Sulawesi Selatan         |
+| 7309      | Kab. Maros                       | 73            |  Sulawesi Selatan         |
+| 7310      | Kab. Pangkajene Kepulauan        | 73            |  Sulawesi Selatan         |
+| 7311      | Kab. Barru                       | 73            |  Sulawesi Selatan         |
+| 7312      | Kab. Soppeng                     | 73            |  Sulawesi Selatan         |
+| 7313      | Kab. Wajo                        | 73            |  Sulawesi Selatan         |
+| 7314      | Kab. Sidenreng Rappang           | 73            |  Sulawesi Selatan         |
+| 7315      | Kab. Pinrang                     | 73            |  Sulawesi Selatan         |
+| 7316      | Kab. Enrekang                    | 73            |  Sulawesi Selatan         |
+| 7317      | Kab. Luwu                        | 73            |  Sulawesi Selatan         |
+| 7318      | Kab. Tana Toraja                 | 73            |  Sulawesi Selatan         |
+| 7322      | Kab. Luwu Utara                  | 73            |  Sulawesi Selatan         |
+| 7324      | Kab. Luwu Timur                  | 73            |  Sulawesi Selatan         |
+| 7326      | Kab. Toraja Utara                | 73            |  Sulawesi Selatan         |
+| 7371      | Kota Makassar                    | 73            |  Sulawesi Selatan         |
+| 7372      | Kota Pare-Pare                   | 73            |  Sulawesi Selatan         |
+| 7373      | Kota Palopo                      | 73            |  Sulawesi Selatan         |
+| 7401      | Kab. Kolaka                      | 74            |  Sulawesi Tenggara        |
+| 7402      | Kab. Konawe                      | 74            |  Sulawesi Tenggara        |
+| 7403      | Kab. Muna                        | 74            |  Sulawesi Tenggara        |
+| 7404      | Kab. Buton                       | 74            |  Sulawesi Tenggara        |
+| 7405      | Kab. Konawe Selatan              | 74            |  Sulawesi Tenggara        |
+| 7406      | Kab. Bombana                     | 74            |  Sulawesi Tenggara        |
+| 7407      | Kab. Wakatobi                    | 74            |  Sulawesi Tenggara        |
+| 7408      | Kab. Kolaka Utara                | 74            |  Sulawesi Tenggara        |
+| 7409      | Kab. Konawe Utara                | 74            |  Sulawesi Tenggara        |
+| 7410      | Kab. Buton Utara                 | 74            |  Sulawesi Tenggara        |
+| 7411      | Kab. Kolaka Timur                | 74            |  Sulawesi Tenggara        |
+| 7412      | Kab. Konawe Kepulauan            | 74            |  Sulawesi Tenggara        |
+| 7413      | Kab. Muna Barat                  | 74            |  Sulawesi Tenggara        |
+| 7414      | Kab. Buton Tengah                | 74            |  Sulawesi Tenggara        |
+| 7415      | Kab. Buton Selatan               | 74            |  Sulawesi Tenggara        |
+| 7471      | Kota Kendari                     | 74            |  Sulawesi Tenggara        |
+| 7472      | Kota Bau-bau                     | 74            |  Sulawesi Tenggara        |
+| 7501      | Kab. Gorontalo                   | 75            |  Gorontalo                |
+| 7502      | Kab. Boalemo                     | 75            |  Gorontalo                |
+| 7503      | Kab. Bone Bolango                | 75            |  Gorontalo                |
+| 7504      | Kab. Pohuwato                    | 75            |  Gorontalo                |
+| 7505      | Kab. Gorontalo Utara             | 75            |  Gorontalo                |
+| 7571      | Kota Gorontalo                   | 75            |  Gorontalo                |
+| 7601      | Kab. Mamuju Utara                | 76            |  Sulawesi Barat           |
+| 7602      | Kab. Mamuju                      | 76            |  Sulawesi Barat           |
+| 7603      | Kab. Mamasa                      | 76            |  Sulawesi Barat           |
+| 7604      | Kab. Polewali Mandar             | 76            |  Sulawesi Barat           |
+| 7605      | Kab. Majene                      | 76            |  Sulawesi Barat           |
+| 7606      | Kab. Mamuju Tengah               | 76            |  Sulawesi Barat           |
+| 8101      | Kab. Maluku Tengah               | 81            |  Maluku                   |
+| 8102      | Kab. Maluku Tenggara             | 81            |  Maluku                   |
+| 8103      | Kab. Maluku Tenggara Barat       | 81            |  Maluku                   |
+| 8104      | Kab. Buru                        | 81            |  Maluku                   |
+| 8105      | Kab. Seram bagian Timur          | 81            |  Maluku                   |
+| 8106      | Kab. Seram Bagian Barat          | 81            |  Maluku                   |
+| 8107      | Kab. Kepulauan Aru               | 81            |  Maluku                   |
+| 8108      | Kab. Maluku Barat Daya           | 81            |  Maluku                   |
+| 8109      | Kab. Buru Selatan                | 81            |  Maluku                   |
+| 8171      | Kota Ambon                       | 81            |  Maluku                   |
+| 8172      | Kota Tual                        | 81            |  Maluku                   |
+| 8201      | Kab. Halmahera Barat             | 82            |  Maluku Utara             |
+| 8202      | Kab. Halmahera Tengah            | 82            |  Maluku Utara             |
+| 8203      | Kab. Halmahera Utara             | 82            |  Maluku Utara             |
+| 8204      | Kab. Halmahera Selatan           | 82            |  Maluku Utara             |
+| 8205      | Kab. Kepulauan Sula              | 82            |  Maluku Utara             |
+| 8206      | Kab. Halmahera Timur             | 82            |  Maluku Utara             |
+| 8207      | Kab. Pulau Morotai               | 82            |  Maluku Utara             |
+| 8207      | Kab. Pulau Morotai               | 82            |  Maluku Utara             |
+| 8208      | Kab. Pulau Taliabu               | 82            |  Maluku Utara             |
+| 8271      | Kota Ternate                     | 82            |  Maluku Utara             |
+| 8272      | Kota Tidore Kepulauan            | 82            |  Maluku Utara             |
+| 9101      | Kab. Merauke                     | 91            |  Papua                    |
+| 9102      | Kab. Jayawijaya                  | 91            |  Papua                    |
+| 9103      | Kab. Jayapura                    | 91            |  Papua                    |
+| 9104      | Kab. Nabire                      | 91            |  Papua                    |
+| 9105      | Kab. Yapen                       | 91            |  Papua                    |
+| 9106      | Kab. Biak Numfor                 | 91            |  Papua                    |
+| 9107      | Kab. Puncak Jaya                 | 91            |  Papua                    |
+| 9108      | Kab. Paniai                      | 91            |  Papua                    |
+| 9110      | Kab. Sarmi                       | 91            |  Papua                    |
+| 9111      | Kab. Keerom                      | 91            |  Papua                    |
+| 9112      | Kab. Pegunungan Bintang          | 91            |  Papua                    |
+| 9113      | Kab. Yahukimo                    | 91            |  Papua                    |
+| 9114      | Kab. Tolikara                    | 91            |  Papua                    |
+| 9115      | Kab. Waropen                     | 91            |  Papua                    |
+| 9116      | Kab. Boven Digul                 | 91            |  Papua                    |
+| 9117      | Kab. Mappi                       | 91            |  Papua                    |
+| 9118      | Kab. Asmat                       | 91            |  Papua                    |
+| 9119      | Kab. Supiori                     | 91            |  Papua                    |
+| 9120      | Kab. Mamberamo Raya              | 91            |  Papua                    |
+| 9121      | Kab. Mamberamo Tengah            | 91            |  Papua                    |
+| 9122      | Kab. Yalimo                      | 91            |  Papua                    |
+| 9123      | Kab. Lanny Jaya                  | 91            |  Papua                    |
+| 9124      | Kab. Nduga                       | 91            |  Papua                    |
+| 9125      | Kab. Puncak                      | 91            |  Papua                    |
+| 9126      | Kab. Dogiyai                     | 91            |  Papua                    |
+| 9127      | Kab. Intan Jaya                  | 91            |  Papua                    |
+| 9128      | Kab. Deiyai                      | 91            |  Papua                    |
+| 9171      | Kota Jayapura                    | 91            |  Papua                    |
+| 9404      | Kab. Mimika                      | 91            |  Papua                    |
+| 9201      | Kab. Sorong                      | 92            |  Irian Jaya Barat         |
+| 9202      | Kab. Manokwari                   | 92            |  Irian Jaya Barat         |
+| 9203      | Kab. Fak-Fak                     | 92            |  Irian Jaya Barat         |
+| 9204      | Kab. Sorong Selatan              | 92            |  Irian Jaya Barat         |
+| 9205      | Kab. Raja Empat                  | 92            |  Irian Jaya Barat         |
+| 9206      | Kab. Teluk Bintuni               | 92            |  Irian Jaya Barat         |
+| 9207      | Kab. Teluk Wondana               | 92            |  Irian Jaya Barat         |
+| 9208      | Kab. Kaimana                     | 92            |  Irian Jaya Barat         |
+| 9209      | Kab. Tambrauw                    | 92            |  Irian Jaya Barat         |
+| 9210      | Kab. Maybrat                     | 92            |  Irian Jaya Barat         |
+| 9211      | Kab. Manokwari Selatan           | 92            |  Irian Jaya Barat         |
+| 9212      | Kab. Pegunungan Arfak            | 92            |  Irian Jaya Barat         |
+| 9271      | Kota Sorong                      | 92            |  Irian Jaya Barat         |
