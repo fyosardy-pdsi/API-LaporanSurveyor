@@ -4,7 +4,7 @@
 
 ## Reference
 
-* [▶ API Reference](reference/api-reference/README.md)
+* [▶️ API Reference](reference/api-reference/README.md)
   * [Kode Perizinan Impor](reference/api-reference/kode-perizinan-impor.md)
   * [Kode Laporan Surveyor](reference/api-reference/kode-laporan-surveyor.md)
   * [Kode Pelabuhan Dalam Negeri](reference/api-reference/kode-pelabuhan-dalam-negeri.md)
