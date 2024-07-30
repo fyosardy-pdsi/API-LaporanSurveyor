@@ -3,13 +3,84 @@ description: Berikut Ini adalah kode perizinan laporan surveyor berdasarkan SSm 
 ---
 
 # Kode Laporan Surveyor
-
 ### Kode Laporan Surveyor Impor
-
+Daftar Laporan Surveyor Impor untuk hasil Verifikasi dan Penelusuran Teknis Impor
 #### Kode Laporan Surveyor Impor Biasa
+Hanya untuk digunakan kegiatan impor selain KPBPB
 
-<table><thead><tr><th width="150">Kode Perizinan</th><th width="150">Probis</th><th width="447.8">Jenis LS</th><th width="225">Dokumen Wajib</th></tr></thead><tbody><tr><td>0101520</td><td>Impor</td><td>LS Impor Beras</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101535</td><td>Impor</td><td>LS Impor Mutiara</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101546</td><td>Impor</td><td>LS Impor Gula</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101561</td><td>Impor</td><td>LS Impor Produk Hortikultura</td><td>Persetujuan Impor (PI)</td></tr><tr><td>01015H9</td><td>Impor</td><td>LS Impor Bawang Putih</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101572</td><td>Impor</td><td>LS Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101591</td><td>Impor</td><td>LS Impor Ban</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101600</td><td>Impor</td><td>LS Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, Dan Mesin Printer Berwarna</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101612</td><td>Impor</td><td>LS Impor Perkakas Tangan (Setengah Jadi)</td><td>Persetujuan Impor (PI)</td></tr><tr><td>01015I2</td><td>Impor</td><td>LS Impor Semen Clinker Dan Semen</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101626</td><td>Impor</td><td>LS Impor Keramik</td><td>-</td></tr><tr><td>0101633</td><td>Impor</td><td>LS Impor Kaca Lembaran</td><td>-</td></tr><tr><td>0101643</td><td>Impor</td><td>LS Impor Garam</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101659</td><td>Impor</td><td>LS Impor Telepon Seluler, Komputer Genggam (Handheld) dan Komputer Tablet</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101667</td><td>Impor</td><td>LS Impor Sakarin, Siklamat, Preparat Bau-Bauan Mengandung Alkohol</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101672</td><td>Impor</td><td>LS Impor Intan Kasar</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101673</td><td>Impor</td><td>LS Impor Produk Tertentu</td><td>-</td></tr><tr><td>01015I4</td><td>Impor</td><td>LS Impor Pakaian Jadi dan Aksesori Pakaian Jadi</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101690</td><td>Impor</td><td>LS Impor Tekstil dan Produk Tekstil (TPT)</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101698</td><td>Impor</td><td>LS Impor Tekstil dan Produk Tekstil Batik dan Motif Batik</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101709</td><td>Impor</td><td>LS Impor Bahan Baku Minuman Beralkohol</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101714</td><td>Impor</td><td>LS Impor Alas Kaki</td><td>Persetujuan Impor (PI)</td></tr><tr><td>01015H6</td><td>Impor</td><td>LS Impor Elektronik</td><td>Persetujuan Impor (PI)</td></tr><tr><td>01015H5</td><td>Impor</td><td>LS Impor Sepeda Roda Dua dan Roda Tiga</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101733</td><td>Impor</td><td>LS Impor Prekursor Non Farmasi</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101751</td><td>Impor</td><td>LS Impor Nitrocellulose</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101802</td><td>Impor</td><td>LS Impor Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Tunggal</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101803</td><td>Impor</td><td>LS Impor Jenis Bahan Perusak Lapisan Ozon (BPO) Dalam Bentuk Senyawa Campuran (Blend) Yang Mengandung HCFC</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101767</td><td>Impor</td><td>LS Impor Barang Berbasis Sistem Pendingin</td><td>-</td></tr><tr><td>0101778</td><td>Impor</td><td>LS Impor Bahan Berbahaya (B2)</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101804</td><td>Impor</td><td>LS Impor Barang Modal Dalam Keadaan Tidak Baru (BMTB) Yang Dapat Diimpor Oleh Pemakai Langsung</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101900</td><td>Impor</td><td>LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Rekondisi</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101919</td><td>Impor</td><td>LS Impor Barang Modal Dalam Keadaan Tidak Baru Yang Dapat Diimpor Oleh Remanufakturing (BMTB Dengan Usia Paling Lama 20 Tahun)</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101920</td><td>Impor</td><td>LS Impor Barang Modal Dalam Keadaan Tidak Baru Untuk Tujuan Tertentu</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101807</td><td>Impor</td><td>LS Impor Baterai Lithium Tidak Baru</td><td>Importir Produsen (IP)</td></tr><tr><td>0101815</td><td>Impor</td><td>LS Impor Limbah Non B3 Sebagai Bahan Baku Industri</td><td>Persetujuan Impor (PI)</td></tr><tr><td>0101130</td><td>Ekspor</td><td>LS Ekspor Produk Industri Kehutanan</td><td>-</td></tr><tr><td>0101209</td><td>Ekspor</td><td>LS Ekspor Intan Kasar</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101056</td><td>Ekspor</td><td>LS Ekspor Timah</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101210</td><td>Ekspor</td><td>LS Ekspor Barang Contoh Produk Industri Pertambangan Untuk Keperluan Penelitian Dan Pengembangan Teknologi Pengolahan Dan/Atau Pemurnian</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101211</td><td>Ekspor</td><td>LS Ekspor Prekursor Non Farmasi</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101212</td><td>Ekspor</td><td>LS Ekspor Bahan Bakar Lain</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101213</td><td>Ekspor</td><td>LS Ekspor Minyak Bumi dan Gas Bumi</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101101</td><td>Ekspor</td><td>LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Mineral Logam dan Bukan Logam, Batuan</td><td>-</td></tr><tr><td>0101214</td><td>Ekspor</td><td>LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Silika, Kuarsa, Konsentrat, Lumpu Anoda</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101215</td><td>Ekspor</td><td>LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Bauksit</td><td>Persetujuan Ekspor (PE)</td></tr><tr><td>0101188</td><td>Ekspor</td><td>LS Ekspor Batubara dan Produk Batubara</td><td>Eksportir Terdaftar (ET)</td></tr></tbody></table>
+| Komoditi                                                                        | Kode    | Uraian Izin                                                               |
+| ------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------- |
+| Alas Kaki                                                                       | 0101714 | LS Impor Alas Kaki                                                        |
+| Bahan Baku Minuman Beralkohol                                                   | 0101709 | LS Impor Bahan Baku Minuman Beralkohol                                    |
+| Bahan Baku Pelumas                                                              | 01018Q3 | LS Impor Bahan Baku Pelumas                                               |
+| Bahan Berbahaya                                                                 | 0101778 | LS Impor Bahan Berbahaya                                                  |
+| Bahan Kimia Tertentu                                                            | 01016P9 | LS Impor Bahan Kimia Tertentu                                             |
+| Bahan Perusak Lapisan Ozon (BPO)                                                | 0101766 | LS Impor Bahan Perusak Ozon                                               |
+| Ban                                                                             | 0101591 | LS Impor Ban                                                              |
+| Barang Berbasis Sistem Pendingin                                                | 0101767 | LS Impor Barang Berbasis Sistem Pendingin                                 |
+| Barang Modal Tidak Baru                                                         | 0101797 | LS Impor Barang Modal dalam Keadaan Tidak Baru                            |
+| Barang Tekstil Sudah Jadi Lainnya                                               | 01016P1 | LS Impor Barang Tekstil Sudah Jadi Lainnya                                |
+| Baterai Lithium Tidak Baru                                                      | 0101807 | LS Impor Baterai Lithium Tidak Baru                                       |
+| Bawang Putih                                                                    | 01015H9 | LS Impor Bawang Putih                                                     |
+| Beras                                                                           | 0101520 | LS Impor Beras                                                            |
+| Besi atau Baja, Baja Paduan, dan Produk Turunannya                              | 0101572 | LS Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya               |
+| Elektronik                                                                      | 01015H6 | LS Impor Elektronik                                                       |
+| Garam                                                                           | 0101643 | LS Impor Garam                                                            |
+| Gula                                                                            | 0101546 | LS Impor Gula                                                             |
+| Hydrofluorocarbon (HFC)                                                         | 0101GQ1 | LS Impor HFC                                                              |
+| Kaca Lembaran dan Kaca Pengaman                                                 | 0101633 | LS Impor Kaca Lembaran                                                    |
+| Katup                                                                           | 01018Q2 | LS Impor Katup                                                            |
+| Keramik                                                                         | 0101626 | LS Impor Keramik                                                          |
+| Kosmetik dan Perbekalan Kesehatan Rumah Tangga                                  | 01016O9 | LS Impor Kosmetik dan Perbekalan Kesehatan Rumah Tangga                   |
+| Limbah Non B3 Sebagai Bahan Baku Industri                                       | 0101815 | LS Impor Limbah Non B3 Sebagai Bahan Baku Industri                        |
+| Mainan                                                                          | 01016P2 | LS Impor Mainan                                                           |
+| Makanan dan Minuman                                                             | 01016O5 | LS Impor Makanan dan Minuman                                              |
+| Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna | 0101600 | LS Impor Mesin Multifungsi dan Printer Berwarna                           |
+| Mutiara                                                                         | 0101535 | LS Impor Mutiara                                                          |
+| Nitrocellulose                                                                  | 0101751 | LS Impor Nitrocellulose                                                   |
+| Obat Tradisional dan Suplemen Kesehatan                                         | 01016O7 | LS Impor Obat Tradisional dan Suplemen Kesehatan                          |
+| Pakaian Jadi dan Aksesori Pakaian Jadi                                          | 01016U7 | LS Impor Pakaian Jadi dan Aksesoris Pakaian Jadi (Post Border)            |
+| Pakaian Jadi dan Aksesori Pakaian Jadi                                          | 01015I4 | LS Impor Pakaian Jadi dan Aksesori Pakaian Jadi                           |
+| Perkakas Tangan Setengah Jadi                                                   | 0101612 | LS Impor Perkakas Tangan                                                  |
+| Plastik Hilir                                                                   | 01016P5 | LS Impor Plastik Hilir                                                    |
+| Prekursor Non Farmasi                                                           | 0101733 | LS Impor Prekursor Non Farmasi                                            |
+| Produk Hortikultura                                                             | 0101561 | LS Impor Produk Hortikultura                                              |
+| Sakarin, Siklamat, Preparat Bau-Bauan Mengandung Alkohol                        | 0101667 | LS Impor Sakarin, Siklamat, Preparat Bau-Bauan Mengandung Alkohol         |
+| Semen Clinker dan Semen                                                         | 01015I2 | LS Semen                                                                  |
+| Sepeda Roda Dua dan Roda Tiga                                                   | 01015H5 | LS Impor Sepeda Roda Dua dan Roda Tiga                                    |
+| Tekstil dan Produk Tekstil (TPT)                                                | 0101690 | LS Impor Tekstil dan Produk Tekstil (TPT)                                 |
+| Tekstil dan Produk Tekstil Batik dan Motif Batik                                | 0101698 | LS Impor Tekstil dan Produk Tekstil Batik dan Motif Batik                 |
+| Telepon Seluler, Komputer Genggam (Handheld) dan Komputer Tablet                | 0101659 | LS Impor Telepon Seluler, Komputer Genggam (Handheld) dan Komputer Tablet |
 
 #### Kode Laporan Surveyor Impor KPBPB
+Hanya untuk digunakan kegiatan impor di KPBPB
+| Komoditi                                  | Kode    | Uraian Izin                                              |
+| ----------------------------------------- | ------- | -------------------------------------------------------- |
+| Bahan Berbahaya                           | 0128901 | LS Impor B2 KPBPB                                        |
+| Barang Modal Tidak Baru                   | 0128902 | LS Impor BMTB KPBPB                                      |
+| Hydrofluorocarbon (HFC)                   | 0128904 | LS Impor HFC KPBPB                                       |
+| Limbah Non B3 Sebagai Bahan Baku Industri | 0128903 | LS Impor Limbah Non B3 sebagai bahan baku industri KPBPB |
+| Nitrocellulose                            | 0128906 | LS Impor Nitrocellulose KPBPB                            |
+| Prekursor Non Farmasi                     | 0128905 | LS Impor Prekursor Non Farmasi KPBPB                     |
+
 
 ### Kode Laporan Surveyor Ekspor
+Daftar Laporan Surveyor Ekspor untuk hasil Verifikasi Ekspor
+| Kode    | Uraian LS                                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 0101101 | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Mineral Logam dan Bukan Logam, Batuan                                |
+| 0101130 | LS Ekspor Produk Industri Kehutanan                                                                                                      |
+| 0101137 | LS Ekspor Produk Pertambangan                                                                                                            |
+| 0101160 | LS Ekspor Minyak Bumi, Gas Bumi dan Bahan Bakar Lain                                                                                     |
+| 0101161 | LS Ekspor Batubara dan Produk Batubara                                                                                                   |
+| 0101173 | LS Ekspor Produk Industri Kehutanan                                                                                                      |
+| 0101209 | LS Ekspor Intan Kasar                                                                                                                    |
+| 0101210 | LS Ekspor Barang Contoh Produk Industri Pertambangan Untuk Keperluan Penelitian Dan Pengembangan Teknologi Pengolahan Dan/Atau Pemurnian |
+| 0101211 | LS Ekspor Prekursor Non Farmasi                                                                                                          |
+| 0101212 | LS Ekspor Bahan Bakar Lain                                                                                                               |
+| 0101213 | LS Ekspor Minyak Bumi dan Gas Bumi                                                                                                       |
+| 0101214 | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Silika, Kuarsa, Konsentrat, Lumpu Anoda                              |
+| 0101215 | LS Ekspor Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Bauksit                                                              |
+| 01013F3 | Laporan Surveyor (LS) Produk Pertambangan Hasil Pengolahan dan/atau Pemurnian - Nikel dan Produk Nikel                                   |
+| 0101A01 | LS Ekspor Timah Murni Batangan                                                                                                           |
+| 0101A02 | LS Ekspor Timah Industri                                                                                                                 |
